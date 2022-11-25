@@ -1,0 +1,34 @@
+***************************************************************************************************
+
+Name: first-name-input
+Value: Lucas
+===============
+Name: last-name-input
+Value: Cheung
+===============
+Name: redesigned-input-email
+Value: bad@sven1105.anonaddy.com
+===============
+Name: step-rate
+Value: 40.00
+===============
+Name: receive-step-rate
+Value: 32.00
+===============
+Name: bidAmount
+Value: 5
+===============
+Name: bidAmount
+Value: 20
+===============
+Name: step-rate
+Value: 15.00
+===============
+Name: receive-step-rate
+Value: 12.00
+===============
+Name: bidAmount
+Value: 10
+===============
+Name: bidAmount
+Value: 15

@@ -1,0 +1,17 @@
+Please Contact me before ordering!
+If you are looking for custom smart contracts and web3 dapp, you are on right tab. 
+
+I will develop custom smart contracts(Solidity) and NFT minting website(using ReactJS and NodeJS)
+
+Smart contract features will be given by you(on Demand).
+
+Website Featured:
+	Single Page Website(ReactJS and nodeJS)
+	Connect wallet(any wallet)
+	Mint Tokens
+	With Admin Dashboard Features(Incase you want to edit)
+
+For better understanding I will perpare a document explaining the project in my terms(breaking down the requirements)
+and I will share the document with you for your feedback. 
+
+(optional)At the end of project(smart contract) All applied tests(using hardhat/truffle) outputs will be shared.

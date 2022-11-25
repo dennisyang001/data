@@ -1,0 +1,20 @@
+Economy of mechanism: hardware and software should be as simple and small as possible. simple, small design is easier to test and verify
+thoroughly.
+
+Fail-safe default: 
+
+Complete mediation: system should use a list where access of each user is verified rather than relying on cache.
+
+Open Design: system algorithms should be public so experts can review the algorithem i.e: encryption
+
+Separation of privilege: use of password and smart card to access paths
+
+Least privilege: role based access control, each user will have different roles
+
+Least common mechanism: minimize the functions shared by different users, providing mutual security
+it helps in reducing number of unintended communication paths and reduces the amount of hardware
+and software on which all users depend
+
+
+
+

@@ -1,0 +1,325 @@
+***************************************************************************************************
+
+ID: 620, Name: csrss.exe, CommandLine: 
+===============
+ID: 1012, Name: winlogon.exe, CommandLine: 
+===============
+ID: 420, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 832, Name: dwm.exe, CommandLine: 
+===============
+ID: 5116, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 2992, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 2552, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 4760, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 5300, Name: igfxEM.exe, CommandLine: igfxEM.exe 
+===============
+ID: 5320, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 5396, Name: igfxHK.exe, CommandLine: igfxHK.exe 
+===============
+ID: 5420, Name: igfxTray.exe, CommandLine: igfxTray.exe 
+===============
+ID: 5444, Name: TVUpdater.exe, CommandLine: "C:\Users\Public\RBM\Client\TVUpdater.exe"
+===============
+ID: 5452, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 3140, Name: explorer.exe, CommandLine: C:\Windows\Explorer.EXE
+===============
+ID: 6352, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 6580, Name: QQPCTray.exe, CommandLine: 
+===============
+ID: 7064, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca
+===============
+ID: 4652, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7300, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 7600, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8184, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 8604, Name: SkypeApp.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\SkypeApp.exe" -ServerName:App.AppXffn3yxqvgawq9fpmnhy90fr3y01d1t5b.mca
+===============
+ID: 8628, Name: SkypeBackgroundHost.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe" -ServerName:SkypeBackgroundHost
+===============
+ID: 9016, Name: QQPCNetFlow.exe, CommandLine: 
+===============
+ID: 9068, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 5580, Name: QQPCRealTimeSpeedup.exe, CommandLine: 
+===============
+ID: 1160, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 7240, Name: netwiz.exe, CommandLine: "C:\ProgramData\Identities\netwiz.exe" 
+===============
+ID: 9496, Name: IPMsg.exe, CommandLine: "C:\Users\bambi\AppData\Local\IPMsg\IPMsg.exe" 
+===============
+ID: 9788, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9152, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 288, Name: RAVCpl64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe" -s
+===============
+ID: 8320, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 8904, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\bambi\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\bambi\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\bambi\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=105.0.5195.127 --initial-client-data=0x104,0x108,0x10c,0xd8,0x110,0x7fff70b65130,0x7fff70b65140,0x7fff70b65150
+===============
+ID: 8684, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1736 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:2
+===============
+ID: 1144, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=1948 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:8
+===============
+ID: 5976, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2040 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:8
+===============
+ID: 10460, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=22 --launch-time-ticks=261465078 --mojo-platform-channel-handle=8716 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 10496, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca
+===============
+ID: 10532, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --launch-time-ticks=262308718 --mojo-platform-channel-handle=8992 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 10540, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=24 --launch-time-ticks=262313739 --mojo-platform-channel-handle=7328 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 10284, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 9852, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=35 --launch-time-ticks=271394694 --mojo-platform-channel-handle=12000 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 11136, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10664, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=12500 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:8
+===============
+ID: 11560, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=46 --launch-time-ticks=291779640 --mojo-platform-channel-handle=13148 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 11740, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=85 --launch-time-ticks=402325229 --mojo-platform-channel-handle=5612 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 11224, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 13056, Name: SystemSettingsBroker.exe, CommandLine: C:\Windows\System32\SystemSettingsBroker.exe -Embedding
+===============
+ID: 12864, Name: WinStore.App.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca
+===============
+ID: 13172, Name: ApplicationFrameHost.exe, CommandLine: C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 4000, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10352, Name: QQPCTray.exe, CommandLine: 
+===============
+ID: 7532, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=163 --launch-time-ticks=839901530 --mojo-platform-channel-handle=2248 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 8308, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=164 --launch-time-ticks=839908912 --mojo-platform-channel-handle=12408 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 3764, Name: NetKey.exe, CommandLine: 
+===============
+ID: 11808, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=196 --launch-time-ticks=927039484 --mojo-platform-channel-handle=6660 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 14120, Name: wps.exe, CommandLine: "C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\wps.exe" /prometheus /fromksolaunch /from=taskbar
+===============
+ID: 7704, Name: promecefpluginhost.exe, CommandLine: "C:/Users/bambi/AppData/Local/Kingsoft/WPS Office/11.2.0.11341/office6/promecefpluginhost.exe" --type=gpu-process --field-trial-handle=3324,3464541932245758498,7431402069819184649,131072 --enable-features=CastMediaRouteProvider --disable-features=CalculateNativeWinOcclusion --no-sandbox --log-file="C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\debug.log" --log-severity=disable --lang=en-US --gpu-preferences=MAAAAAAAAADgACAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --log-file="C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\debug.log" --mojo-platform-channel-handle=3336 /prefetch:2
+===============
+ID: 7200, Name: promecefpluginhost.exe, CommandLine: "C:/Users/bambi/AppData/Local/Kingsoft/WPS Office/11.2.0.11341/office6/promecefpluginhost.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=3324,3464541932245758498,7431402069819184649,131072 --enable-features=CastMediaRouteProvider --disable-features=CalculateNativeWinOcclusion --lang=en-US --service-sandbox-type=network --no-sandbox --log-file="C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\debug.log" --log-severity=disable --lang=en-US --log-file="C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\debug.log" --mojo-platform-channel-handle=3476 /prefetch:8
+===============
+ID: 10824, Name: wps.exe, CommandLine: "C:\Users\bambi\AppData\Local\Kingsoft\WPSOFF~1\1120~1.113\office6\wps.exe" Run /AppUserModelID=Kingsoft.Office.cefhomepage -Entry=EntryPoint -EncodePathU8=QzpcVXNlcnNcYmFtYmlcQXBwRGF0YVxMb2NhbFxLaW5nc29mdFxXUFMgT2ZmaWNlXDExLjIuMC4xMTM0MVxvZmZpY2U2XGFkZG9uc1xrY2VmXGtjZWZyZW5kZXIuZGxs -EncodePath QzpcVXNlcnNcYmFtYmlcQXBwRGF0YVxMb2NhbFxLaW5nc29mdFxXUFMgT2ZmaWNlXDExLjIuMC4xMTM0MVxvZmZpY2U2XGFkZG9uc1xrY2VmXGtjZWZyZW5kZXIuZGxs -CefPluginPathU8=QzpcVXNlcnNcYmFtYmlcQXBwRGF0YVxMb2NhbFxLaW5nc29mdFxXUFMgT2ZmaWNlXDExLjIuMC4xMTM0MVxvZmZpY2U2XGFkZG9uc1xjZWY= -CefPluginPath=QzpcVXNlcnNcYmFtYmlcQXBwRGF0YVxMb2NhbFxLaW5nc29mdFxXUFMgT2ZmaWNlXDExLjIuMC4xMTM0MVxvZmZpY2U2XGFkZG9uc1xjZWY= -CefParentID=14120 "C:/Users/bambi/AppData/Local/Kingsoft/WPS Office/11.2.0.11341/office6/promecefpluginhost.exe" --type=renderer --no-sandbox --js-flags=--expose-gc --log-file="C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\debug.log" --field-trial-handle=3324,3464541932245758498,7431402069819184649,131072 --enable-features=CastMediaRouteProvider --disable-features=CalculateNativeWinOcclusion --lang=en-US --no-zygote --log-file="C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\debug.log" --log-severity=disable --disable-pdf-extension --enable-speech-input --enable-system-flash --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --mojo-platform-channel-handle=3924 /prefetch:1
+===============
+ID: 9488, Name: wps.exe, CommandLine: "C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\wps.exe" /wps /from_prome /prome-pipe-token=kprometheus.14120.7344.20274
+===============
+ID: 14204, Name: wpscenter.exe, CommandLine: "C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6/wpscenter.exe" Run -Entry=EntryPoint "C:\Users\bambi\AppData\Roaming\Kingsoft/wps/addons/pool/win-i386/kdocreminder_1.1.2021.41/kdocreminder.dll"
+===============
+ID: 16944, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 15064, Name: LockApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+===============
+ID: 16484, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 27932, Name: taskhostw.exe, CommandLine: 
+===============
+ID: 35200, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=821 --launch-time-ticks=31853940142 --mojo-platform-channel-handle=21000 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 37072, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 36132, Name: Calculator.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca
+===============
+ID: 35440, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 31084, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=975 --launch-time-ticks=38995146295 --mojo-platform-channel-handle=19036 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 12656, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1161 --launch-time-ticks=44103420471 --mojo-platform-channel-handle=21444 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 40764, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1194 --launch-time-ticks=45875472074 --mojo-platform-channel-handle=16216 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 43508, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1195 --launch-time-ticks=45875509124 --mojo-platform-channel-handle=24244 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 43712, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1197 --launch-time-ticks=45875533013 --mojo-platform-channel-handle=28084 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 39940, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1190 --launch-time-ticks=45875739602 --mojo-platform-channel-handle=8240 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 46052, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1191 --launch-time-ticks=45875891877 --mojo-platform-channel-handle=2260 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 44836, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1192 --launch-time-ticks=45875925189 --mojo-platform-channel-handle=23004 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 45032, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1200 --launch-time-ticks=45876711098 --mojo-platform-channel-handle=24836 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 44164, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1204 --launch-time-ticks=45894151650 --mojo-platform-channel-handle=28628 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 37960, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1207 --launch-time-ticks=45969022756 --mojo-platform-channel-handle=28684 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 45144, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1370 --launch-time-ticks=48667396889 --mojo-platform-channel-handle=31136 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 48932, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1378 --launch-time-ticks=48723761422 --mojo-platform-channel-handle=30616 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 48380, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1383 --launch-time-ticks=48736100065 --mojo-platform-channel-handle=28512 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 14888, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1403 --launch-time-ticks=48815852355 --mojo-platform-channel-handle=31568 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 31392, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1436 --launch-time-ticks=49921075744 --mojo-platform-channel-handle=2740 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 50140, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window /prefetch:5
+===============
+ID: 50160, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\bambi\AppData\Local\Microsoft\Edge\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\bambi\AppData\Local\Microsoft\Edge\User Data\Crashpad" "--metrics-dir=C:\Users\bambi\AppData\Local\Microsoft\Edge\User Data" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=105.0.5195.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=105.0.1343.50 --initial-client-data=0xf0,0xf4,0xf8,0xcc,0x104,0x7fff74cd5850,0x7fff74cd5860,0x7fff74cd5870
+===============
+ID: 49412, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=2224 --field-trial-handle=2188,i,2723290682094834832,16664669685309571757,131072 /prefetch:2
+===============
+ID: 49268, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2336 --field-trial-handle=2188,i,2723290682094834832,16664669685309571757,131072 /prefetch:3
+===============
+ID: 49772, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2608 --field-trial-handle=2188,i,2723290682094834832,16664669685309571757,131072 /prefetch:8
+===============
+ID: 46312, Name: OneDrive.exe, CommandLine:  /updateInstalled /background
+===============
+ID: 50428, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1494 --launch-time-ticks=51908019327 --mojo-platform-channel-handle=34600 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 12988, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1498 --launch-time-ticks=51970292893 --mojo-platform-channel-handle=31996 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 42368, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1505 --launch-time-ticks=52200205207 --mojo-platform-channel-handle=29544 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 48424, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1541 --launch-time-ticks=52684093532 --mojo-platform-channel-handle=34596 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 49884, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1551 --launch-time-ticks=53039639353 --mojo-platform-channel-handle=20856 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 19848, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1552 --launch-time-ticks=53068543259 --mojo-platform-channel-handle=25256 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 50944, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1553 --launch-time-ticks=53069087223 --mojo-platform-channel-handle=18560 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 46760, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1585 --launch-time-ticks=54176648539 --mojo-platform-channel-handle=35448 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 52216, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1625 --launch-time-ticks=55535981141 --mojo-platform-channel-handle=37632 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 52480, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1690 --launch-time-ticks=57189286340 --mojo-platform-channel-handle=21496 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 52692, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1691 --launch-time-ticks=57257597426 --mojo-platform-channel-handle=14268 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 51800, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1761 --launch-time-ticks=57782852844 --mojo-platform-channel-handle=39924 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 52848, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1765 --launch-time-ticks=57785022061 --mojo-platform-channel-handle=37948 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 41368, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1777 --launch-time-ticks=57812958278 --mojo-platform-channel-handle=5556 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 54200, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1779 --launch-time-ticks=57869938621 --mojo-platform-channel-handle=13900 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 31596, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1785 --launch-time-ticks=57904977550 --mojo-platform-channel-handle=39412 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 53128, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1814 --launch-time-ticks=58605127527 --mojo-platform-channel-handle=16692 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 51748, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1897 --launch-time-ticks=61252872703 --mojo-platform-channel-handle=16908 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 55672, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1947 --launch-time-ticks=62311985209 --mojo-platform-channel-handle=39124 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 55184, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1972 --launch-time-ticks=62716274609 --mojo-platform-channel-handle=42540 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 49160, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1973 --launch-time-ticks=62745119050 --mojo-platform-channel-handle=41660 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 21436, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1974 --launch-time-ticks=62745473131 --mojo-platform-channel-handle=43512 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 44940, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2014 --launch-time-ticks=63484860001 --mojo-platform-channel-handle=32632 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 59304, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2074 --launch-time-ticks=65167494742 --mojo-platform-channel-handle=35020 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 54160, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2085 --launch-time-ticks=65286815535 --mojo-platform-channel-handle=46292 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 57004, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2086 --launch-time-ticks=65307540336 --mojo-platform-channel-handle=30824 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 54776, Name: sublime_text.exe, CommandLine: "C:\Program Files\Sublime Text 3\sublime_text.exe" 
+===============
+ID: 55404, Name: plugin_host.exe, CommandLine: "/C/Program Files/Sublime Text 3/plugin_host.exe" "54776" "--auto-shell-env"
+===============
+ID: 55564, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2396 --launch-time-ticks=84958868593 --mojo-platform-channel-handle=47988 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 61320, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2397 --launch-time-ticks=84991198044 --mojo-platform-channel-handle=47704 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 62668, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2398 --launch-time-ticks=84991741932 --mojo-platform-channel-handle=46484 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 66252, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2404 --launch-time-ticks=85144652055 --mojo-platform-channel-handle=46260 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 69352, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=proxy_resolver.mojom.ProxyResolverFactory --lang=en-US --service-sandbox-type=service --mojo-platform-channel-handle=35384 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:8
+===============
+ID: 56940, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2647 --launch-time-ticks=93022230773 --mojo-platform-channel-handle=51736 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 20040, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2727 --launch-time-ticks=95549844127 --mojo-platform-channel-handle=51452 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 73704, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=2999 --launch-time-ticks=115632081199 --mojo-platform-channel-handle=55624 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 76744, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 78712, Name: webcord0830(3Base).exe, CommandLine: "D:\IPMSG\webcord0830(3Base).exe" 
+===============
+ID: 78116, Name: Webcord.exe, CommandLine: "C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\Webcord.exe" --proxy=219c984f6bafe73ae2e8f731840486491dbc376a78ddddadbfb202aeb7a05d24 --user=b29d986195e30df14d63833b05ecf123 --password=f954c5942c8d4bc18469e06a454144d9 --logger=82aad49a1e67cf5a932d703eba773bce14e777a5c6290d70aaa74cd669c96d45 
+===============
+ID: 75256, Name: Webcord.exe, CommandLine: "C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\Webcord.exe" --type=gpu-process --user-data-dir="C:\Users\bambi\AppData\Roaming\WebCord" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1632 --field-trial-handle=1668,i,2033879288150623341,15870536988349132953,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2
+===============
+ID: 78172, Name: Webcord.exe, CommandLine: "C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\Webcord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\bambi\AppData\Roaming\WebCord" --mojo-platform-channel-handle=2080 --field-trial-handle=1668,i,2033879288150623341,15870536988349132953,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 78316, Name: Webcord.exe, CommandLine: "C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\Webcord.exe" --type=renderer --user-data-dir="C:\Users\bambi\AppData\Roaming\WebCord" --app-user-model-id="Discord Client" --app-path="C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\resources\app.asar" --enable-websql --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=115693690796 --mojo-platform-channel-handle=2604 --field-trial-handle=1668,i,2033879288150623341,15870536988349132953,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:1
+===============
+ID: 74500, Name: Microsoft.Photos.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca
+===============
+ID: 78876, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 84316, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3207 --launch-time-ticks=124674342020 --mojo-platform-channel-handle=57708 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 86596, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3241 --launch-time-ticks=125648008480 --mojo-platform-channel-handle=58116 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 49172, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3242 --launch-time-ticks=125657554375 --mojo-platform-channel-handle=58168 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 86524, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3243 --launch-time-ticks=125658985780 --mojo-platform-channel-handle=58220 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 85272, Name: Monitor.TaskView.exe, CommandLine: 
+===============
+ID: 75220, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 85504, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 74548, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3306 --launch-time-ticks=126993097861 --mojo-platform-channel-handle=56348 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 42332, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3307 --launch-time-ticks=126998688235 --mojo-platform-channel-handle=51856 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 15832, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3356 --launch-time-ticks=127083272615 --mojo-platform-channel-handle=50172 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 35664, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3368 --launch-time-ticks=127107098022 --mojo-platform-channel-handle=57612 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 86256, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3380 --launch-time-ticks=127153029145 --mojo-platform-channel-handle=58876 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 86720, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3386 --launch-time-ticks=127199074807 --mojo-platform-channel-handle=58852 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 5040, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3389 --launch-time-ticks=127234143587 --mojo-platform-channel-handle=60376 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 81956, Name: wpscloudsvr.exe, CommandLine: "C:\Users\bambi\AppData\Local\Kingsoft\WPS Office\11.2.0.11341\office6\wpscloudsvr.exe" /wpscloudlaunch /run_plugin /plugin_name=ktaskschdtool /plugin_entry=ktaskschdtool.dll /task=wpsexternal /launchtask /ver=1.0 /start_from=task_external
+===============
+ID: 6508, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3419 --launch-time-ticks=127834010934 --mojo-platform-channel-handle=57264 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 81644, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3429 --launch-time-ticks=128164730628 --mojo-platform-channel-handle=62804 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 48604, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3430 --launch-time-ticks=128170535332 --mojo-platform-channel-handle=59560 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 32348, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3431 --launch-time-ticks=128171053197 --mojo-platform-channel-handle=62932 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 73344, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=3441 --launch-time-ticks=128580197379 --mojo-platform-channel-handle=58960 --field-trial-handle=1868,i,629486634957698517,11009329722907747903,131072 /prefetch:1
+===============
+ID: 87164, Name: SearchProtocolHost.exe, CommandLine: "C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-759188765-2474612236-339064792-1001127_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-759188765-2474612236-339064792-1001127 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1"
+===============
+ID: 84372, Name: Webcord.exe, CommandLine: "C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\Webcord.exe" --type=renderer --user-data-dir="C:\Users\bambi\AppData\Roaming\WebCord" --app-user-model-id="Discord Client" --app-path="C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\resources\app.asar" --no-sandbox --no-zygote --enable-blink-features=WebAppWindowControlsOverlay --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=18684 --launch-time-ticks=128784163303 --mojo-platform-channel-handle=3024 --field-trial-handle=1668,i,2033879288150623341,15870536988349132953,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:1
+===============
+ID: 81292, Name: aspnet_compiler.exe, CommandLine: C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe
+===============
+ID: 81736, Name: Webcord.exe, CommandLine: "C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\Webcord.exe" --type=renderer --user-data-dir="C:\Users\bambi\AppData\Roaming\WebCord" --app-user-model-id="Discord Client" --app-path="C:\Users\bambi\AppData\Local\Temp\webcord0830(3Base)_2d40ac6b-febf-475e-8277-e06faf6ae123\resources\app.asar" --no-sandbox --no-zygote --enable-blink-features=WebAppWindowControlsOverlay --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=18729 --launch-time-ticks=128817786250 --mojo-platform-channel-handle=1112 --field-trial-handle=1668,i,2033879288150623341,15870536988349132953,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:1

@@ -1,0 +1,167 @@
+***************************************************************************************************
+
+ID: 13116, Name: csrss.exe, CommandLine: 
+===============
+ID: 5580, Name: winlogon.exe, CommandLine: 
+===============
+ID: 4976, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 16832, Name: dwm.exe, CommandLine: 
+===============
+ID: 18996, Name: atieclxx.exe, CommandLine: 
+===============
+ID: 15956, Name: AUEPUF.exe, CommandLine: 
+===============
+ID: 20624, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 2776, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 6788, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 8972, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 21300, Name: explorer.exe, CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 21828, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 15832, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 4212, Name: svchost.exe, CommandLine: C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 18120, Name: SearchHost.exe, CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+===============
+ID: 19988, Name: StartMenuExperienceHost.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 1148, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12504, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 13748, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12688, Name: taskhostw.exe, CommandLine: 
+===============
+ID: 19832, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 18924, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 3548, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 21364, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 11196, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\wasio\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\wasio\AppData\Local\Google\Chrome\User Data\Crashpad" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=105.0.5195.127 --initial-client-data=0x104,0x108,0x10c,0xe0,0x110,0x7ffdb3cb5130,0x7ffdb3cb5140,0x7ffdb3cb5150
+===============
+ID: 11204, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1704 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:2
+===============
+ID: 11092, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=1948 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:8
+===============
+ID: 5284, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2112 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:8
+===============
+ID: 18700, Name: PhoneExperienceHost.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22072.207.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 7900, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --launch-time-ticks=571859371975 --mojo-platform-channel-handle=5088 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 9296, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --launch-time-ticks=571859409113 --mojo-platform-channel-handle=5104 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 4064, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --launch-time-ticks=571859415675 --mojo-platform-channel-handle=3820 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 9396, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --launch-time-ticks=571859533192 --mojo-platform-channel-handle=3560 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 22304, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=14 --launch-time-ticks=571859781868 --mojo-platform-channel-handle=6024 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 1296, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 19780, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=en-US --service-sandbox-type=service --mojo-platform-channel-handle=6400 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:8
+===============
+ID: 22180, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=22 --launch-time-ticks=571862526451 --mojo-platform-channel-handle=5580 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 3344, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 4548, Name: RtkAudUService64.exe, CommandLine: "C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_bc81681eb27bc1ae\RtkAudUService64.exe" -background
+===============
+ID: 19364, Name: steam.exe, CommandLine: "C:\Program Files (x86)\Steam\steam.exe" -silent
+===============
+ID: 1952, Name: Discord.exe, CommandLine: "C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\Discord.exe" 
+===============
+ID: 22168, Name: lghub.exe, CommandLine: "C:\Program Files\LGHUB\lghub.exe" --background
+===============
+ID: 14956, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=3212 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:8
+===============
+ID: 13224, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" "-lang=en_US" "-cachedir=C:\Users\wasio\AppData\Local\Steam\htmlcache" "-steampid=19364" "-buildid=1663887315" "-steamid=0" "-logdir=C:\Program Files (x86)\Steam\logs" "-composer-mode=0" "-steamuniverse=Public" "-realm=Global" "-clientui=C:\Program Files (x86)\Steam\clientui" --enable-media-stream --enable-smooth-scrolling --enable-direct-write "--log-file=C:\Program Files (x86)\Steam\logs\cef_log.txt" --disable-quick-menu --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging
+===============
+ID: 6912, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=crashpad-handler /prefetch:7 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Program Files (x86)\Steam\dumps" "--metrics-dir=C:\Users\wasio\AppData\Local\CEF\User Data" --url=http://crash.steampowered.com/submit --annotation=platform=win64 --annotation=product=cefwebhelper --annotation=version=1663887315 --initial-client-data=0x374,0x378,0x37c,0x350,0x380,0x7ffda01bf070,0x7ffda01bf080,0x7ffda01bf090
+===============
+ID: 15376, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=gpu-process --field-trial-handle=1680,11760041563761199656,17177273801776242739,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --product-version="Valve Steam Client" --lang=en-US --buildid=1663887315 --steamid=0 --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=1696 /prefetch:2
+===============
+ID: 7308, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1680,11760041563761199656,17177273801776242739,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --lang=en-US --service-sandbox-type=network --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --product-version="Valve Steam Client" --lang=en-US --buildid=1663887315 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2216 /prefetch:8
+===============
+ID: 6436, Name: Discord.exe, CommandLine: C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\wasio\AppData\Roaming\discord /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\wasio\AppData\Roaming\discord\Crashpad --url=https://sentry.io/api/146342/minidump/?sentry_key=384ce4413de74fe0be270abe03b2b35a "--annotation=_companyName=Discord Inc." --annotation=_productName=Discord --annotation=_version=1.0.9006 --annotation=prod=Electron --annotation=ver=13.6.6 --initial-client-data=0x488,0x48c,0x490,0x484,0x494,0x6e23850,0x6e23860,0x6e2386c
+===============
+ID: 10012, Name: Discord.exe, CommandLine: "C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=gpu-process --field-trial-handle=1644,2546591514585915348,4087594473869427603,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --gpu-preferences=SAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --mojo-platform-channel-handle=1708 /prefetch:2
+===============
+ID: 10516, Name: Discord.exe, CommandLine: "C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1644,2546591514585915348,4087594473869427603,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=1712 /prefetch:8
+===============
+ID: 22224, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=30 --launch-time-ticks=571871602814 --mojo-platform-channel-handle=7804 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 6396, Name: Discord.exe, CommandLine: "C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=1644,2546591514585915348,4087594473869427603,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\resources\app.asar" --no-sandbox --no-zygote --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3116 /prefetch:1 --enable-node-leakage-in-renderers
+===============
+ID: 7452, Name: lghub_agent.exe, CommandLine: "C:\Program Files\LGHUB\lghub_agent.exe"
+===============
+ID: 1740, Name: lghub.exe, CommandLine: "C:\Program Files\LGHUB\lghub.exe" --type=gpu-process --user-data-dir="C:\Users\wasio\AppData\Roaming\LGHUB" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1768 --field-trial-handle=1916,i,3948162036262990919,7221780294568562666,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2
+===============
+ID: 17716, Name: lghub.exe, CommandLine: "C:\Program Files\LGHUB\lghub.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\wasio\AppData\Roaming\LGHUB" --mojo-platform-channel-handle=2092 --field-trial-handle=1916,i,3948162036262990919,7221780294568562666,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 5624, Name: RadeonSoftware.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\Radeonsoftware.exe" atlogon
+===============
+ID: 11808, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+===============
+ID: 7556, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\wasio\AppData\Local\Microsoft\Edge\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\wasio\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=105.0.5195.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=105.0.1343.50 --initial-client-data=0x104,0x108,0x10c,0xe0,0x118,0x7ffd9f255850,0x7ffd9f255860,0x7ffd9f255870
+===============
+ID: 15300, Name: AnyDesk.exe, CommandLine: "C:\Program Files (x86)\AnyDesk\AnyDesk.exe"  --control
+===============
+ID: 16736, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=2044 --field-trial-handle=2152,i,3028966089242695085,14599871928537998743,131072 /prefetch:2
+===============
+ID: 2760, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2316 --field-trial-handle=2152,i,3028966089242695085,14599871928537998743,131072 /prefetch:3
+===============
+ID: 9964, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2600 --field-trial-handle=2152,i,3028966089242695085,14599871928537998743,131072 /prefetch:8
+===============
+ID: 6708, Name: unsecapp.exe, CommandLine: C:\WINDOWS\system32\wbem\unsecapp.exe -Embedding
+===============
+ID: 4960, Name: Discord.exe, CommandLine: "C:\Users\wasio\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1644,2546591514585915348,4087594473869427603,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=2604 /prefetch:8
+===============
+ID: 7388, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=31 --launch-time-ticks=571879155429 --mojo-platform-channel-handle=3816 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 15544, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --field-trial-handle=1680,11760041563761199656,17177273801776242739,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --product-version="Valve Steam Client" --buildid=1663887315 --steamid=0 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --mojo-platform-channel-handle=2664 /prefetch:1
+===============
+ID: 4512, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --field-trial-handle=1680,11760041563761199656,17177273801776242739,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --product-version="Valve Steam Client" --buildid=1663887315 --steamid=0 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --mojo-platform-channel-handle=2928 /prefetch:1
+===============
+ID: 4180, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --field-trial-handle=1680,11760041563761199656,17177273801776242739,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --product-version="Valve Steam Client" --buildid=1663887315 --steamid=0 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --mojo-platform-channel-handle=2996 /prefetch:1
+===============
+ID: 3764, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=32 --launch-time-ticks=571881087988 --mojo-platform-channel-handle=7828 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 5980, Name: AMDRSServ.exe, CommandLine: 
+===============
+ID: 8532, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 17628, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6768, Name: amdow.exe, CommandLine: 
+===============
+ID: 16624, Name: WinRAR.exe, CommandLine: "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\wasio\Downloads\Requirements.rar"
+===============
+ID: 19960, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --instant-process --display-capture-permissions-policy-allowed --js-flags=--ms-user-locale= --first-renderer-process --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --launch-time-ticks=571902300237 --mojo-platform-channel-handle=5092 --field-trial-handle=2152,i,3028966089242695085,14599871928537998743,131072 /prefetch:1
+===============
+ID: 6888, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --display-capture-permissions-policy-allowed --js-flags=--ms-user-locale= --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=13 --launch-time-ticks=571902533569 --mojo-platform-channel-handle=5672 --field-trial-handle=2152,i,3028966089242695085,14599871928537998743,131072 /prefetch:1
+===============
+ID: 15732, Name: ApplicationFrameHost.exe, CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 8440, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 20296, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalService -p -s NPSMSvc
+===============
+ID: 11968, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10652, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=43 --launch-time-ticks=571950906039 --mojo-platform-channel-handle=8252 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 20812, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=44 --launch-time-ticks=571950913748 --mojo-platform-channel-handle=4952 --field-trial-handle=1276,i,15304690575511099225,4545998986253956559,131072 /prefetch:1
+===============
+ID: 14836, Name: aspnet_compiler.exe, CommandLine: C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe

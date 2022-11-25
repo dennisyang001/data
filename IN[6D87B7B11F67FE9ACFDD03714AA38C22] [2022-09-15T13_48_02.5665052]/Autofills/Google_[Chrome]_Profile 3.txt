@@ -1,0 +1,706 @@
+***************************************************************************************************
+
+Name: search-string
+Value: B08MHDM29K
+===============
+Name: 5544269
+Value: arccus.inc@gmail.com
+===============
+Name: manufacturer-TEXTFIELD-FORMATTER
+Value: NueScent
+===============
+Name: resolving_input
+Value: seller@appletofu.com
+===============
+Name: user_personal_information_presenter[zipcode]
+Value: 60564
+===============
+Name: sku-TEXTFIELD-FORMATTER
+Value: APT_JUG_ST_500ML
+===============
+Name: width
+Value: 1.4688
+===============
+Name: first_name
+Value: Ravi
+===============
+Name: username_email
+Value: developer1@gmail.com
+===============
+Name: _nkw
+Value: label printer
+===============
+Name: katal-id-4
+Value: purchase@appletofu.com
+===============
+Name: fullName
+Value: manisha
+===============
+Name: recipientPhoneNumber
+Value: 8140005550
+===============
+Name: 183689
+Value: rajeshkapupara@gmail.com
+===============
+Name: search-string
+Value: B004PIBWW8
+===============
+Name: ups-last_name_input
+Value: k
+===============
+Name: modelNumber-TEXTFIELD-FORMATTER
+Value: APTCUP04
+===============
+Name: recipients.selected.profile.firstName
+Value: Ravik
+===============
+Name: company
+Value: AppleTofu Inc.
+===============
+Name: BillerName
+Value: bank of america
+===============
+Name: numOfBoxes
+Value: 4
+===============
+Name: email
+Value: purchase@appletofu.com
+===============
+Name: _nkw
+Value: labels
+===============
+Name: tl_list-search-box
+Value: fre
+===============
+Name: assembledProductWidth.measure-TEXTFIELD
+Value: 5
+===============
+Name: user
+Value: urbanlty
+===============
+Name: multipackQuantity-TEXTFIELD-FORMATTER
+Value: 3
+===============
+Name: width
+Value: 1.2083
+===============
+Name: awsui-textfield-19
+Value: arn:aws:iam::591012416759:user/n
+===============
+Name: msrp-TEXTFIELD-FORMATTER
+Value: 17.99
+===============
+Name: countPerPack-TEXTFIELD-FORMATTER
+Value: 4
+===============
+Name: EmailAddress
+Value: kamlesh.kapupara@arkema.com
+===============
+Name: awsui-textfield-18
+Value: DevNamrata
+===============
+Name: tl_list-search-box
+Value: guj
+===============
+Name: Phone
+Value: 708.224.3915
+===============
+Name: phoneNumber
+Value: (331) 701-8392
+===============
+Name: BirthDate
+Value: 04/28/1987
+===============
+Name: katal-id-1
+Value: Appletofu.com
+===============
+Name: ITEM-NAME-TEXTFIELD
+Value: Magnetic Wallet Address Book - Credit Card Size Address Book - Pocket Address Book - Set of 2
+===============
+Name: katal-id-3
+Value: Manisha Kapupara
+===============
+Name: numOfUnits
+Value: 27
+===============
+Name: email_input
+Value: mkapupara@yahoo.com
+===============
+Name: payload.txnSearchCriteria.endDate
+Value: 06/30/2021
+===============
+Name: height
+Value: 0.2569
+===============
+Name: count-TEXTFIELD-FORMATTER
+Value: 1
+===============
+Name: msrp-TEXTFIELD-FORMATTER
+Value: 19.99
+===============
+Name: recipients.selected.profile.lastName
+Value: Kapupara
+===============
+Name: user_personal_information_presenter[address_line1]
+Value: Thackery lane
+===============
+Name: 30959042
+Value: Ravi Ratilal Kapupara
+===============
+Name: payload.txnSearchCriteria.startDate
+Value: 01/01/2020
+===============
+Name: 68712745
+Value: Arccus Inc. 3rd floor, Trishul chowk, Laxminagar Main Road
+===============
+Name: CreditCard[name]
+Value: Kanlesh Kapupara
+===============
+Name: templateNameInput
+Value: Plain memo book
+===============
+Name: City
+Value: Naperville
+===============
+Name: countPerPack-TEXTFIELD-FORMATTER
+Value: 1
+===============
+Name: query
+Value: aroma
+===============
+Name: recipients.selected.profile.city
+Value: Upleta
+===============
+Name: manufacturer-TEXTFIELD-FORMATTER
+Value: AppleTofu
+===============
+Name: pieceCount-TEXTFIELD-FORMATTER
+Value: 4
+===============
+Name: AddressLine1
+Value: 1035 Thackery Lane
+===============
+Name: msrp-TEXTFIELD-FORMATTER
+Value: 10.99
+===============
+Name: email
+Value: manisha@appletofu.com
+===============
+Name: search
+Value: 60564
+===============
+Name: paymentReference
+Value: Website Enhcment
+===============
+Name: paymentReference
+Value: Feb month ecom
+===============
+Name: volumeCapacity.measure-TEXTFIELD
+Value: 1000
+===============
+Name: sku-TEXTFIELD-FORMATTER
+Value: APT_MCUP_1000
+===============
+Name: templateNameInput
+Value: 96 units white tea
+===============
+Name: swatchImages.swatchImageUrl-TEXTFIELD
+Value: http://i5.walmartimages.com/asr/e2099a18-2725-44a1-9022-ba08b51c4758.4418d9ca17544a68da600d8dfdf42a63.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
+===============
+Name: brand-TEXTFIELD-FORMATTER
+Value: AppleTofu
+===============
+Name: user_personal_information_presenter[city]
+Value: Naperville
+===============
+Name: username
+Value: seller@appletofu.com
+===============
+Name: 18461284
+Value: ravikapupara@gmail.com
+===============
+Name: ups-search
+Value: schedule delivery
+===============
+Name: Uid
+Value: 9628
+===============
+Name: sku-TEXTFIELD-FORMATTER
+Value: APT_BOOK_002
+===============
+Name: query
+Value: skevi
+===============
+Name: awsui-textfield-21
+Value: namrata.web@arccus.in
+===============
+Name: brand-TEXTFIELD-FORMATTER
+Value: NueScent
+===============
+Name: Phone
+Value: 312.806.1987
+===============
+Name: width
+Value: 2.9306
+===============
+Name: countPerPack-TEXTFIELD-FORMATTER
+Value: 3
+===============
+Name: q
+Value: printer
+===============
+Name: paymentReference
+Value: Jan month ecom
+===============
+Name: pieceCount-TEXTFIELD-FORMATTER
+Value: 1
+===============
+Name: query
+Value: kitchen
+===============
+Name: assembledProductHeight.measure-TEXTFIELD
+Value: 7
+===============
+Name: manufacturerPartNumber-TEXTFIELD-FORMATTER
+Value: APTCUP04
+===============
+Name: watu_text_captcha_answer
+Value: hot
+===============
+Name: ITEM-NAME-TEXTFIELD
+Value: NueScent Aroma Oil for Scent Diffusers. (Cashmere & Fig)
+===============
+Name: paymentReference
+Value: Sept - Oct Amzn
+===============
+Name: ITEM-NAME-TEXTFIELD
+Value: Plastic Measuring Cup, BPA-free Measuring Cup Set with Handle Grip, Lightweight, Fade Resistant, Microwave and Dishwasher Safe, Spout Cooking Baking Kitchen Utensil - Set of 3
+===============
+Name: 95861785
+Value: 360005
+===============
+Name: billingcity
+Value: Naperville
+===============
+Name: numOfUnits
+Value: 20
+===============
+Name: sku-TEXTFIELD-FORMATTER
+Value: APTCUP04
+===============
+Name: katal-id-5
+Value: +1
+===============
+Name: 38540906
+Value: Ravi Ratilal Kapupara
+===============
+Name: LoginModel.Username
+Value: ApppleTofu Inc
+===============
+Name: phone
+Value: 3317018392
+===============
+Name: q
+Value: onion chopper
+===============
+Name: paymentReference
+Value: Janmonth ecom
+===============
+Name: katal-id-6
+Value: (331) 701-8392
+===============
+Name: numOfUnits
+Value: 18
+===============
+Name: 79065130
+Value: rajeshkapupara@gmail.com
+===============
+Name: manufacturerPartNumber-TEXTFIELD-FORMATTER
+Value: CASHMERE-FIG-10
+===============
+Name: username
+Value: raviowner
+===============
+Name: assembledProductLength.measure-TEXTFIELD
+Value: 7
+===============
+Name: modalTextNameChange
+Value: AMZ- Measuring Pitcher Graduated (1 Liter) New
+===============
+Name: modalTextNameChange
+Value: WM Magnetic Book set of 2
+===============
+Name: A083571429WI350UPOD9F
+Value: 1
+===============
+Name: address1
+Value: 1035 Thackery Ln
+===============
+Name: height
+Value: 1.1181
+===============
+Name: sso_sign_in_form[username]
+Value: appletofu
+===============
+Name: recipients.selected.profile.phoneNumber
+Value: 7567475647
+===============
+Name: name
+Value: authorized_keys
+===============
+Name: sku-TEXTFIELD-FORMATTER
+Value: CASHMERE-FIG-10
+===============
+Name: numOfUnits
+Value: 17
+===============
+Name: 59337591
+Value: ARCCUS INCORPORATION
+===============
+Name: LOGIN
+Value: appletofu
+===============
+Name: count-TEXTFIELD-FORMATTER
+Value: 3
+===============
+Name: ITEM-NAME-TEXTFIELD
+Value: AppleTofu 1000ml Plastic Measuring Cup Set with Handle and Spout - Set of 3
+===============
+Name: manufacturer-TEXTFIELD-FORMATTER
+Value: APT_JUG_ST_500ML
+===============
+Name: q
+Value: nike
+===============
+Name: email
+Value: ravikapupara@appletofu.com
+===============
+Name: ITEM-NAME-TEXTFIELD
+Value: Appletofu Plastic Graduated Measuring and Mixing Pitcher, 500ml Liquid Beaker Measuring Cups, 0.5 Liter Stackable Food Grade Polypropylene Plastic Measuring Pitcher with Handle and Pour Spout.
+===============
+Name: email
+Value: kamlesh34@
+===============
+Name: tl_list-search-box
+Value: greek
+===============
+Name: tokenValue
+Value: 127539
+===============
+Name: input
+Value: 1Z5774F00390203385
+===============
+Name: tl_list-search-box
+Value: gr
+===============
+Name: billingaddress
+Value: 1035 thackery lane
+===============
+Name: trackable_link
+Value: http://fbuy.me/slEcP
+===============
+Name: height
+Value: 0.875
+===============
+Name: systemOfMeasurement-TEXTFIELD-FORMATTER
+Value: Metric
+===============
+Name: resolving_input
+Value: purchase@appletofu.com
+===============
+Name: katal-id-0
+Value: Appletofu Inc.
+===============
+Name: PostalCode
+Value: 60564
+===============
+Name: manufacturerPartNumber-TEXTFIELD-FORMATTER
+Value: APT_MCUP_1000
+===============
+Name: sku-TEXTFIELD-FORMATTER
+Value: APT_MCUP_3
+===============
+Name: i4
+Value: Naperville
+===============
+Name: manufacturerPartNumber-TEXTFIELD-FORMATTER
+Value: APT_MCUP_3
+===============
+Name: recipients.selected.profile.email
+Value: ravikapupara@gmail.com
+===============
+Name: last_name
+Value: k
+===============
+Name: height
+Value: 1.0799
+===============
+Name: user
+Value: root
+===============
+Name: login_email
+Value: manisha@appletofu.com
+===============
+Name: 52717666
+Value: IBKL0000119
+===============
+Name: aspectRatio
+Value: 76.1
+===============
+Name: watu_text_captcha_answer
+Value: white
+===============
+Name: registrationkey
+Value: Arkema
+===============
+Name: LoginModel.Username
+Value: info.appletofu@gmail.com
+===============
+Name: CreditCard[expDate]
+Value: 04/24
+===============
+Name: 773334
+Value: 0119102000042200
+===============
+Name: username
+Value: mkapupara
+===============
+Name: GLUXZipUpdateInput
+Value: 60564
+===============
+Name: 5544269
+Value: arccus.in@gmail.com
+===============
+Name: search-string
+Value: B07BZP4JSB
+===============
+Name: search
+Value: tape
+===============
+Name: recipients.selected.profile.address1
+Value: Kapupara Nivas, Jaawahar Road, Jirapa Ploat
+===============
+Name: account[email]
+Value: purchase@appletofu.com
+===============
+Name: ITEM-NAME-TEXTFIELD
+Value: Funnel Pitcher (1000ml) for Measuring, Easy Pour Measuring Cup with Funnel Spout - Set of 4.
+===============
+Name: 24431204
+Value: Rajkot
+===============
+Name: billingstate
+Value: il
+===============
+Name: aspectRatio
+Value: 73.5
+===============
+Name: billingzipcode
+Value: 60564
+===============
+Name: 55740171
+Value: Ravi Ratilal Kapupara
+===============
+Name: city
+Value: NAPERVILLE
+===============
+Name: numOfBoxes
+Value: 1
+===============
+Name: aspectRatio
+Value: 28.7
+===============
+Name: postal
+Value: 60564
+===============
+Name: tl_list-search-box
+Value: spa
+===============
+Name: recipients.selected.profile.address2
+Value: Near new court
+===============
+Name: pieceCount-TEXTFIELD-FORMATTER
+Value: 3
+===============
+Name: manufacturerPartNumber-TEXTFIELD-FORMATTER
+Value: APT_BOOK_002
+===============
+Name: MakePayments[0].DateField
+Value: 01/26/2022
+===============
+Name: tl_list-search-box
+Value: sp
+===============
+Name: count-TEXTFIELD-FORMATTER
+Value: 4
+===============
+Name: search-string
+Value: B01HZF9FMG
+===============
+Name: MakePayments[0].AmountField
+Value: 5000.00
+===============
+Name: _name
+Value: Rockey 11
+===============
+Name: _birth
+Value: 01/12/1995
+===============
+Name: user
+Value: arccus.inc@gmail.com
+===============
+Name: company_code
+Value: urban
+===============
+Name: username
+Value: project.arccus@gmail.com
+===============
+Name: user
+Value: erpurbanrealty
+===============
+Name: username
+Value: kabir@urban-realty.ca
+===============
+Name: 70383794
+Value: rajeshkapupara@gmail.com
+===============
+Name: 27865322
+Value: Ravi Ratilal Kapupara
+===============
+Name: 45236446
+Value: Ravi Ratilal Kapupara
+===============
+Name: 94828443
+Value: Foram Rajeshbhai Kapupara
+===============
+Name: 74635333
+Value: YESB0RAJ016
+===============
+Name: 96103841
+Value: 0016100100005518
+===============
+Name: 16337234
+Value: Krishna Creation
+===============
+Name: 19660470
+Value: YESB0RAJ016
+===============
+Name: 65501347
+Value: 0016100100005518
+===============
+Name: account[org_name]
+Value: Ravi
+===============
+Name: account[user][first_name]
+Value: Ravi
+===============
+Name: account[user][last_name]
+Value: Kapupara
+===============
+Name: account[user][username]
+Value: ravi.k
+===============
+Name: account[user][email]
+Value: ravikapupara@gmail.com
+===============
+Name: username
+Value: ravi.k
+===============
+Name: date-picker-inline
+Value: 06/08/2022
+===============
+Name: modalTextNameChange
+Value: WM 5000 ml Measuring Stk Pitcher Graduated New
+===============
+Name: username
+Value: kamlesh34@yahoo.com
+===============
+Name: dob
+Value: 04-28-1987
+===============
+Name: leadingZeros
+Value: 1
+===============
+Name: username
+Value: mkapupara87
+===============
+Name: numOfBoxes
+Value: 3
+===============
+Name: postalCode
+Value: 60564
+===============
+Name: numOfUnits
+Value: 50
+===============
+Name: numOfBoxes
+Value: 2
+===============
+Name: headerSearchGhost
+Value: apple tree
+===============
+Name: dlID
+Value: K11655187721
+===============
+Name: modalTextNameChange
+Value: AMZ RH 5000 ml Measuring Pitcher Graduated New
+===============
+Name: edlbpDesktopFfqp_B00WT1QGCO_buyingOption_0-freeQuantityTextInput
+Value: 10
+===============
+Name: height
+Value: 0.3472
+===============
+Name: width
+Value: 1.6493
+===============
+Name: modalTextNameChange
+Value: AMZ Password Book set of 2
+===============
+Name: aspectRatio
+Value: 21.1
+===============
+Name: c3
+Value: Appletofu Inc
+===============
+Name: c7
+Value: Police Supply Shop
+===============
+Name: ctl00$Main$ctl01$txtMaxWidth
+Value: 1080
+===============
+Name: ctl00$Main$ctl01$txtMaxHeight
+Value: 1080
+===============
+Name: ctl00$MainContent$username
+Value: mkapupara87
+===============
+Name: FirstName
+Value: Jay
+===============
+Name: LastName
+Value: Chovatiya
+===============
+Name: edlbpDesktopFfqp_B09NXNSQCC_buyingOption_0-freeQuantityTextInput
+Value: 10
+===============
+Name: endValue
+Value: 1
+===============
+Name: step
+Value: 1
+===============
+Name: startValue
+Value: 1
+===============
+Name: numOfUnits
+Value: 48
+===============
+Name: email
+Value: seller@appletofu.com
+===============
+Name: numOfUnits
+Value: 24
+===============
+Name: email
+Value: mkapupara@yahoo.com

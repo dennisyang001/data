@@ -1,0 +1,2 @@
+.battle.net	TRUE	/	FALSE	3804500290	web.id	US-42bd2964-1fdb-46ba-9d77-57594ccb777c
+.battle.net	TRUE	/login	FALSE	3804500428	bnet.extra	AWugr5OVBti7xw4NWf5FAdNKshmLvQpeGL_iyby6UJ7o_54sJDt7H7CgTO8zd5NNpyHd-MpvOIWc7oF14fGDhyGmwrr_3eH_AXN5aimFnYH5

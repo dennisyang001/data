@@ -1,0 +1,22 @@
+***************************************************************************************************
+
+Name: Bucket
+Value: storage.webmobdemo.xyz
+===============
+Name: email
+Value: project.arccus@gmail.com
+===============
+Name: AccountName
+Value: project.arccus@gmail.com
+===============
+Name: n
+Value: 301529
+===============
+Name: firstName
+Value: Ravi
+===============
+Name: lastName
+Value: Kapupara
+===============
+Name: phone_number
+Value: 7567475647

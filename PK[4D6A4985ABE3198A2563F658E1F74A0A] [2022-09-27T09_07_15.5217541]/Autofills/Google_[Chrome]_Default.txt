@@ -1,0 +1,793 @@
+***************************************************************************************************
+
+Name: identifier
+Value: k191357@nu.edu.pk
+===============
+Name: email
+Value: wasiohameed@gmail.com
+===============
+Name: username
+Value: offfocus
+===============
+Name: fields[first_name]
+Value: offfocs
+===============
+Name: email_address
+Value: k191357@nu.edu.pk
+===============
+Name: usernameOrEmail
+Value: wasiohameed@gmail.com
+===============
+Name: slug
+Value: offfocus
+===============
+Name: displayName
+Value: chat
+===============
+Name: email
+Value: 03337559916
+===============
+Name: name
+Value: ChatApp62313
+===============
+Name: email
+Value: abdulmueed614@gmail.com
+===============
+Name: username
+Value: 19K-1357
+===============
+Name: username
+Value: FAST
+===============
+Name: identifier
+Value: wasiohameed
+===============
+Name: fbc_n
+Value: WhatsApp
+===============
+Name: fbc_1d
+Value: WhatsApp
+===============
+Name: crnno
+Value: 97592
+===============
+Name: email
+Value: rafioabdul@yahoo.com
+===============
+Name: username
+Value: wasiohameed@gmail.com
+===============
+Name: firstName
+Value: sadasd
+===============
+Name: lastName
+Value: sadasd
+===============
+Name: user.attributes.jobTitle
+Value: asdasd
+===============
+Name: user.attributes.addressLine1
+Value: 312asdsfsdaf
+===============
+Name: user.attributes.addressCityText
+Value: asdasdas
+===============
+Name: user.attributes.addressCountyText
+Value: asdasd
+===============
+Name: user.attributes.addressStateText
+Value: asdasd
+===============
+Name: selected-city-control
+Value: Karachi
+===============
+Name: selected-area-control
+Value: Gulistan-e-Jauhar Block-12
+===============
+Name: dwms15:1s7.__mp-tnfi
+Value: Untitled folder
+===============
+Name: login
+Value: FocusBT
+===============
+Name: user[email]
+Value: k191357@nu.edu.pk
+===============
+Name: enterprise_slug
+Value: FAST
+===============
+Name: emailOrUsername
+Value: k191357@nu.edu.pk
+===============
+Name: userLoginId
+Value: shemeyezesdpgm@outlook.com
+===============
+Name: email
+Value: 03337523155
+===============
+Name: n
+Value: 995884
+===============
+Name: identifier
+Value: arafio120
+===============
+Name: userLoginId
+Value: abdulwasio123@gmail.com
+===============
+Name: ccmonth
+Value: 10
+===============
+Name: ccyear
+Value: 24
+===============
+Name: ADDRESS_LINE_1
+Value: cvasdfsadfasdf
+===============
+Name: LOCALITY
+Value: karachi
+===============
+Name: POSTAL_CODE
+Value: 12345
+===============
+Name: ccname
+Value: Abdul Wasio
+===============
+Name: ADDRESS_LINE_1
+Value: Safari Blessing, PZ10
+===============
+Name: POSTAL_CODE
+Value: 74000
+===============
+Name: LOCALITY
+Value: Karachi
+===============
+Name: p6ntest-name-input
+Value: car-pooling-app
+===============
+Name: keyword
+Value: Gulistan-E-Jauhar Block-12
+===============
+Name: ccname
+Value: ABDUL WASIO
+===============
+Name: ADDRESS_LINE_1
+Value: Safari Blessing, C21, GULSHTAN-E-JOHAR BLOCK 12
+===============
+Name: POSTAL_CODE
+Value: 07599
+===============
+Name: LOCALITY
+Value: KARACHI
+===============
+Name: city-control
+Value: Karachi
+===============
+Name: area-control
+Value: Gulistan-e-Jauhar Block-12
+===============
+Name: cardnumber
+Value: 2205530
+===============
+Name: promocode
+Value: ODXFAST
+===============
+Name: house_no
+Value: Safari Blessings, C19, Gulstan-e-johar, block 12
+===============
+Name: street
+Value: Safari Blessings, C19, Gulstan-e-johar, block 12
+===============
+Name: Search-Input
+Value: setting
+===============
+Name: Search-Input
+Value: profile
+===============
+Name: Search-Input
+Value: notification
+===============
+Name: _0rif_mat-input-1
+Value: 978542
+===============
+Name: ccmonth
+Value: 02
+===============
+Name: ccyear
+Value: 25
+===============
+Name: ccname
+Value: ABDUL RAFIO
+===============
+Name: identifier
+Value: abdulwasio123
+===============
+Name: email
+Value: abdulwasio123@gmail.com
+===============
+Name: k
+Value: office
+===============
+Name: k
+Value: 365
+===============
+Name: search
+Value: wasay_bin_hameed@yahoo.com
+===============
+Name: email
+Value: k191357@nu.edu.pk
+===============
+Name: txtimgcode
+Value: CvfS814
+===============
+Name: txtimgcode
+Value: 5a4q293
+===============
+Name: signupUsername
+Value: IO_founditdeez3
+===============
+Name: text
+Value: abdulwasio123
+===============
+Name: text
+Value: abdulwasio123@gmail.com
+===============
+Name: cnic
+Value: 43402-0449781-1
+===============
+Name: name
+Value: Abdul Wasio
+===============
+Name: f_name
+Value: Abdul Hameed
+===============
+Name: address
+Value: C-19 Safari Blessing, Gulstan-e-Johar Block12, Karachi
+===============
+Name: mobile
+Value: 03363524350
+===============
+Name: email
+Value: addulwasio123@gmail.com
+===============
+Name: p_order
+Value: 16861925121
+===============
+Name: Input.Cnic
+Value: 43402-0449781-1
+===============
+Name: Input.PhoneNumber
+Value: +923363524350
+===============
+Name: PhoneOTP
+Value: 469160
+===============
+Name: PersonalDetails.FullName
+Value: Abdul Wasio
+===============
+Name: PersonalDetails.FatherName
+Value: Abdul Hameed
+===============
+Name: PersonalDetails.Email
+Value: abdulwasio123@gmail.com
+===============
+Name: PersonalDetails.DateOfBirth
+Value: 02 October, 1999
+===============
+Name: PersonalDetails.Sect
+Value: Sunni
+===============
+Name: PersonalDetails.Caste
+Value: Memon
+===============
+Name: City
+Value: Karachi
+===============
+Name: Tehsil
+Value: Karachi East
+===============
+Name: StreetAddress
+Value: C-19 Safari Blessing, Gulstane-e-Johar Block 12, Karachi
+===============
+Name: EducationDetails.MajorSubjects
+Value: Physics, Chemistry, Mathematics, Biology
+===============
+Name: EducationDetails.ObtainedMarks
+Value: 698
+===============
+Name: EducationDetails.TotalMarks
+Value: 850
+===============
+Name: EducationDetails.GradeOrDivision
+Value: A1
+===============
+Name: EducationDetails.InstituteName
+Value: SZABIST Intermediate College, Larkana
+===============
+Name: EducationDetails.MajorSubjects
+Value: International Relations
+===============
+Name: EducationDetails.ObtainedMarks
+Value: 3379
+===============
+Name: EducationDetails.TotalMarks
+Value: 4500
+===============
+Name: EducationDetails.GradeOrDivision
+Value: 1st Division
+===============
+Name: EducationDetails.InstituteName
+Value: University of Sindh, Jamhsoro
+===============
+Name: Name
+Value: Abdul Wasio
+===============
+Name: Email
+Value: abdulwasio123@gmail.com
+===============
+Name: PhoneNumber
+Value: +923363524350
+===============
+Name: Cnic
+Value: 43402-0449781-1
+===============
+Name: Topic
+Value: Eligibility issue while applying
+===============
+Name: Input.Cnic
+Value: 43503-0466362-7
+===============
+Name: Input.PhoneNumber
+Value: +923352372632
+===============
+Name: Input.Cnic
+Value: 43402-0662312-0
+===============
+Name: PersonalDetails.FullName
+Value: Irfan Ali
+===============
+Name: PersonalDetails.FatherName
+Value: Jan Muhammad
+===============
+Name: PersonalDetails.Email
+Value: irfanbaloch00234@gmail.com
+===============
+Name: PersonalDetails.DateOfBirth
+Value: 14 November, 1998
+===============
+Name: PersonalDetails.Caste
+Value: Sundrani Baloch
+===============
+Name: user_session[login]
+Value: abdulwasio123@gmail.
+===============
+Name: user_session[login]
+Value: abdulwasio123@gmail.com
+===============
+Name: sEmail
+Value: abdulwasio123@gmail.com
+===============
+Name: sPrefName
+Value: Abdul
+===============
+Name: dDOB_year
+Value: 1999
+===============
+Name: sStreet1
+Value: C-19 Safari Blessing
+===============
+Name: sStreet2
+Value: Gulstan-e-Johar Block 12, Karachi
+===============
+Name: sSuburb
+Value: Karachi
+===============
+Name: sPhone1
+Value: +923363524350
+===============
+Name: sPhone2
+Value: +923363524350
+===============
+Name: ctl00$MainContentPlaceHolder$SearchText
+Value: international
+===============
+Name: q26331_institution_1Text
+Value: University of Sindh, Jamshoro
+===============
+Name: q26331_cityCampus_1
+Value: Main Campus, Jamshoro
+===============
+Name: q26331_yearStarted_1
+Value: 2018
+===============
+Name: yearEnded_1
+Value: 2022
+===============
+Name: institutionSecondary_2
+Value: Aga Khan College, Karachi
+===============
+Name: q26331_cityCampus_2
+Value: Karachi
+===============
+Name: q26331_yearStarted_2
+Value: 2015
+===============
+Name: yearEnded_2
+Value: 2017
+===============
+Name: q26367
+Value: 50
+===============
+Name: q26368
+Value: 10000
+===============
+Name: q26369
+Value: 24/06/2022
+===============
+Name: filter-by-keyword
+Value: pakistan
+===============
+Name: username
+Value: a
+===============
+Name: cnic
+Value: 43402-0662312-0
+===============
+Name: txtimgcode
+Value: EkKf765
+===============
+Name: phone
+Value: 3153433377
+===============
+Name: area
+Value: 0 - 3000
+===============
+Name: bedroom
+Value: 1 - 5
+===============
+Name: bathroom
+Value: 1 - 5
+===============
+Name: #1
+Value: 100
+===============
+Name: #7
+Value: 250
+===============
+Name: q
+Value: aqua 2012
+===============
+Name: invoceDateP
+Value: 2012-12-05
+===============
+Name: invoceDateP
+Value: 2017-12-06
+===============
+Name: invoceDateP
+Value: 2020-12-16
+===============
+Name: invoceDateP
+Value: 2022-07-01
+===============
+Name: k
+Value: screen
+===============
+Name: k
+Value: record
+===============
+Name: usrname
+Value: s3760375
+===============
+Name: answer
+Value: 458762
+===============
+Name: email
+Value: dovakindragon@yahoo.com
+===============
+Name: email
+Value: wasay_bin_hameed@yahoo.com
+===============
+Name: q
+Value: altis 1.6
+===============
+Name: car_selector
+Value: Toyota  Corolla Altis X Automatic 1.6
+===============
+Name: q
+Value: altis 1.6 special edition
+===============
+Name: q
+Value: 1.6 special edition
+===============
+Name: car_selector
+Value: Toyota  Corolla Altis X Automatic 1.6 Special Edition
+===============
+Name: car_selector
+Value: KIA  Stonic EX
+===============
+Name: searchTextBox
+Value: 0338214000905
+===============
+Name: searchTextBox
+Value: 03382140009005
+===============
+Name: reference
+Value: 03382140009005
+===============
+Name: car_selector
+Value: Honda  City 1.5L ASPIRE CVT
+===============
+Name: father_name
+Value: Abdul Hameed
+===============
+Name: surname
+Value: Memon
+===============
+Name: gender
+Value: Male
+===============
+Name: religion
+Value: Islam
+===============
+Name: merital_status
+Value: Single
+===============
+Name: place_of_birth
+Value: Larkana
+===============
+Name: domicile
+Value: Qamber-Shahdadkot
+===============
+Name: phone
+Value: 03363524350
+===============
+Name: personal_email
+Value: abdulwasio123@gmail.com
+===============
+Name: present_address
+Value: C-19 Safari Blessing, Gulstan-e-Jauhar Block12, Karachi
+===============
+Name: permanent_address
+Value: C-19 Safari Blessing, Gulstan-e-Jauhar Block12, Karachi
+===============
+Name: ctl00$ctl57$g_54dd8f31_4553_4814_88d2_b512421bc905$ctl00$txtUserID
+Value: 56182155
+===============
+Name: ctl00$ctl57$g_d0413896_cc58_4276_8cd9_0454c5d920f0$ctl00$txtEmail
+Value: abdulwasio123@gmail.com
+===============
+Name: ctl00$ctl57$g_d0413896_cc58_4276_8cd9_0454c5d920f0$ctl00$txtEmailRetype
+Value: abdulwasio123@gmail.com
+===============
+Name: steam_id
+Value: https://steamcommunity.com/id/bedlammmm/
+===============
+Name: dnn_ctr410_ViewPrePaid_mobileTopUp_ctrlAdd_txtNick_text
+Value: baba
+===============
+Name: dnn_ctr410_ViewPrePaid_mobileTopUp_ctrlAdd_txtCustomerID_text
+Value: 03363524350
+===============
+Name: dnn_ctr410_ViewPrePaid_mobileTopUp_ctrlAdd_txtConfirm_text
+Value: 03363524350
+===============
+Name: username
+Value: sattarhakro
+===============
+Name: today_Year_ID
+Value: 1976
+===============
+Name: payment-card-first-name
+Value: abdul
+===============
+Name: payment-card-last-name
+Value: wasay
+===============
+Name: expiration
+Value: 07 / 2027
+===============
+Name: payment-card-zip-code
+Value: 90006
+===============
+Name: payment-card-first-name
+Value: Abdul
+===============
+Name: payment-card-last-name
+Value: Wasio
+===============
+Name: payment-card-zip-code
+Value: 74000
+===============
+Name: payment-card-zip-code
+Value: 75000
+===============
+Name: expiration
+Value: 10 / 2024
+===============
+Name: cardExpiry
+Value: 07/27
+===============
+Name: query
+Value: cv
+===============
+Name: id_card1
+Value: 43402
+===============
+Name: id_card2
+Value: 0449781
+===============
+Name: id_card3
+Value: 1
+===============
+Name: mobilephone
+Value: 3524350
+===============
+Name: dob
+Value: 1999-10-02
+===============
+Name: fathername
+Value: Abdul Hameed
+===============
+Name: PermanentAddress
+Value: Mian mangan road, near bus stand, Kamber-Shahdadkot@Kamber
+===============
+Name: Caste
+Value: Memon
+===============
+Name: Sect
+Value: Sunni
+===============
+Name: SSC_Subject
+Value: General Science
+===============
+Name: SSC_ObtMarks
+Value: 698
+===============
+Name: SSC_MaxMarks
+Value: 850
+===============
+Name: SSC_Inst_Name
+Value: Larkana
+===============
+Name: SSC_Institute
+Value: SZABIST, Larkana
+===============
+Name: HSSC_Subject
+Value: Mathematics, Chemistry, Physics
+===============
+Name: HSSC_ObtMarks
+Value: 826
+===============
+Name: HSSC_MaxMarks
+Value: 1100
+===============
+Name: HSSC_Inst_Name
+Value: Aga Khan Board
+===============
+Name: HSSC_Institute
+Value: AKHSS, Karachi
+===============
+Name: MA_Subject
+Value: International Relations
+===============
+Name: MA_ObtMarks
+Value: 3379
+===============
+Name: MA_MaxMarks
+Value: 4500
+===============
+Name: MA_Inst_Name
+Value: Sindh University, Jamshoro
+===============
+Name: MA_Institute
+Value: Sindh University, Jamshoro
+===============
+Name: cnic
+Value: 4340204497811
+===============
+Name: Name
+Value: Irfan Ali
+===============
+Name: LName
+Value: Jan Muhammad
+===============
+Name: Cnic
+Value: 4350304663627
+===============
+Name: MobNo
+Value: 03046044140
+===============
+Name: Email
+Value: irfanbaloch00234@gmail.com
+===============
+Name: name
+Value: Irfan Ali
+===============
+Name: father_name
+Value: Jan Muhammad
+===============
+Name: email
+Value: irfanbaloch00234@gmail.com
+===============
+Name: postal_address
+Value: Village Dari, Town Ghouspur, Taulka Kandhkot Dist: Kashmore
+===============
+Name: permanent_address
+Value: Village Dari, Town Ghouspur, Taulka Kandhkot Dist: Kashmore
+===============
+Name: cnic
+Value: 4350304663627
+===============
+Name: contact_number
+Value: 03046044140
+===============
+Name: degree_detail
+Value: BSc International Relations
+===============
+Name: cnic
+Value: 4340206623120
+===============
+Name: degree
+Value: SSC
+===============
+Name: board_uni
+Value: Larkana Board
+===============
+Name: passing_year
+Value: 2014
+===============
+Name: marks_obtained
+Value: 705
+===============
+Name: marks_total
+Value: 850
+===============
+Name: division_grade
+Value: A1
+===============
+Name: major_subjects
+Value: General Science
+===============
+Name: degree
+Value: HSSC
+===============
+Name: passing_year
+Value: 2016
+===============
+Name: marks_obtained
+Value: 957
+===============
+Name: marks_total
+Value: 1100
+===============
+Name: major_subjects
+Value: Physics, Chemistry, Biology
+===============
+Name: degree
+Value: BSc International Relations
+===============
+Name: board_uni
+Value: Sindh University, Jamshoro
+===============
+Name: passing_year
+Value: 2022
+===============
+Name: marks_obtained
+Value: 3.17
+===============
+Name: marks_total
+Value: 4.0
+===============
+Name: division_grade
+Value: 1st Division
+===============
+Name: major_subjects
+Value: International Relations
+===============
+Name: iVerifyText
+Value: 4919015
+===============
+Name: ctl00$ctl57$g_54dd8f31_4553_4814_88d2_b512421bc905$ctl00$txtUserID
+Value: 56572166
+===============
+Name: email
+Value: rindfasty@gmail.com

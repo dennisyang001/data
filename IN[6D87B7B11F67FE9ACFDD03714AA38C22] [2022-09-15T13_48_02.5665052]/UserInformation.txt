@@ -1,0 +1,31 @@
+***************************************************************************************************
+
+Build ID: 108M
+IP: 150.129.104.154
+FileLocation: C:\Users\ravikapupara\Downloads\requirements\documents\Requirements.scr
+UserName: ravikapupara
+Country: IN
+Zip Code: 383235
+Location: Rajkot, Gujarat
+HWID: 6D87B7B11F67FE9ACFDD03714AA38C22
+Current Language: English (United States)
+ScreenSize: {Width=3840, Height=1080}
+TimeZone: (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Operation System: Windows 10 Enterprise x64
+UAC: AllowAll
+Process Elevation: False
+Log date: 9/15/2022 1:48:02 PM
+
+Available KeyboardLayouts: 
+English (United States)
+English (India)
+
+
+Hardwares: 
+Name: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, 6 Cores
+Name: NVIDIA GeForce GT 1030, 2147483648 bytes
+Name: Total of RAM, 16328.11 MB or 17121263616 bytes
+
+
+Anti-Viruses: 
+Windows Defender

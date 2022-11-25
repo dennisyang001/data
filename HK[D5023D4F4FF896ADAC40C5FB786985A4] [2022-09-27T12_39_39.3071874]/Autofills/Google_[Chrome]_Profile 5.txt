@@ -1,0 +1,34 @@
+***************************************************************************************************
+
+Name: first-name-input
+Value: Lucas
+===============
+Name: last-name-input
+Value: Cheung
+===============
+Name: redesigned-input-email
+Value: emeral@sven1105.anonaddy.com
+===============
+Name: step-rate
+Value: 25.00
+===============
+Name: receive-step-rate
+Value: 20.00
+===============
+Name: bidAmount
+Value: 10
+===============
+Name: step-rate
+Value: 40.00
+===============
+Name: receive-step-rate
+Value: 32.00
+===============
+Name: step-rate
+Value: 50.00
+===============
+Name: receive-step-rate
+Value: 40.00
+===============
+Name: bidAmount
+Value: 20

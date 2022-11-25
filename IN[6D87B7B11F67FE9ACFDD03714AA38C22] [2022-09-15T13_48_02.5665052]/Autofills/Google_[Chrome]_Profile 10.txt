@@ -1,0 +1,1480 @@
+***************************************************************************************************
+
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/3.jpg
+===============
+Name: e
+Value: monika.digital@arccus.in
+===============
+Name: attachment-details-two-column-title
+Value: 817LKSfZ8DL._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: 4
+===============
+Name: attachment-details-two-column-title
+Value: 41p99IBXg+L._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 61oCVzf+eVS._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51KNbSTbgnL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 51sqrV2ojFL._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51I-uh5jFHL._AC_SL1080_.jpg
+===============
+Name: email
+Value: hiral.ecom@appletofu.com
+===============
+Name: location
+Value: USA
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/8-1.jpg
+===============
+Name: pf_phpbb_website
+Value: https://appletofu.com/
+===============
+Name: LastName
+Value: Tofu
+===============
+Name: attachment-details-two-column-title
+Value: 61D5O4nmEQL._AC_SX679_
+===============
+Name: pf_phpbb_facebook
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: attachment-details-two-column-alt-text
+Value: 8
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71h65g0o9zL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: Magnetic Wallet Address Book - Credit Card Size Address Book
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/8.jpg
+===============
+Name: new_user[username]
+Value: Appletofu
+===============
+Name: attachment-details-two-column-title
+Value: 71hT88cZdoS._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: F1
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/510u17YOgKS._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71PEA1wKOQS._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/F1-1.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/81-WZ8QLC1L._AC_SL1500_.jpg
+===============
+Name: search
+Value: APT_MCUP_3
+===============
+Name: user
+Value: Appletofu
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61oCVzfeVS._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: 22
+===============
+Name: attachment-details-two-column-title
+Value: 71LSRLB+NkL._AC_SL1500_
+===============
+Name: mat-input-5
+Value: appletofu.com/
+===============
+Name: user[website_url]
+Value: https://appletofu.com/
+===============
+Name: attachment-details-two-column-title
+Value: Magnetic Wallet Address Book
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61K81XJ3LL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 2
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/7.jpg
+===============
+Name: new_user[email]
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-title
+Value: 71fWicyRW-L._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: 51b1+l8uGqL._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: 61w9NPXurTL._AC_SL1280_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61qWEImQL1S._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/7-1.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 5
+===============
+Name: attachment-details-two-column-title
+Value: 51HdjvGr3pS._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61MnS5fbFaL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: Measuring Cups
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/F4-scaled.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41p99IBXgL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 71PEA1wKOQS._AC_SX679_
+===============
+Name: ctl00$C$textBoxUsername
+Value: Appletofu
+===============
+Name: attachment-details-two-column-title
+Value: 71TlkGxy0BL._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/41S4CJd5YiL.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51b1l8uGqL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 61eYEWRa+4S._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61D5O4nmEQL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 1
+===============
+Name: attachment-details-two-column-alt-text
+Value: 1
+===============
+Name: attachment-details-two-column-title
+Value: 41Jw5IP9JyL._AC_SX679_
+===============
+Name: user[location]
+Value: USA
+===============
+Name: attachment-details-two-column-title
+Value: 51UbbFpNH5L._AC_SX679_
+===============
+Name: attachment-details-two-column-alt-text
+Value: 4
+===============
+Name: company[contactmail]
+Value: contact@appletofu.com
+===============
+Name: e
+Value: appletofu.team@gmail.com
+===============
+Name: ctl00$C$LLW$Item0$TBUrl
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61XU1xORceL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 71h65g0o9zL._AC_SL1500_
+===============
+Name: emailConfirm
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-title
+Value: 61K81+XJ3LL._AC_SX679_
+===============
+Name: EmailAddress
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-title
+Value: 71wLnzJ981L._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41tm78oFlxL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41rTIPFEhjL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: 3
+===============
+Name: attachment-details-two-column-title
+Value: 51gGymccMKL._AC_SX679_
+===============
+Name: members_display_name
+Value: Appletofu
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41J43KT9ZdL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 41rTIPFEhjL._AC_SX679_
+===============
+Name: company[website]
+Value: https://appletofu.com/
+===============
+Name: attachment-details-two-column-title
+Value: 71uU5fsdR-L._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51tEDyTx4PL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61eYEWRa4S._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41Jw5IP9JyL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 3
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/6122uvuN27L._AC_SL1321_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/81fmL0lBR4L._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61rFeBrpq7L._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: Magnetic Wallet Address Book
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/518MDtvBHDL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 61LpHTfq2jL._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: F3
+===============
+Name: company_name
+Value: Appletofu
+===============
+Name: attachment-details-two-column-title
+Value: 612JdEF1J2L._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 7
+===============
+Name: attachment-details-two-column-title
+Value: 613vXBf3b7L._AC_SL1280_
+===============
+Name: attachment-details-two-column-alt-text
+Value: 33
+===============
+Name: attachment-details-two-column-alt-text
+Value: 6
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/5.jpg
+===============
+Name: profile[lastname]
+Value: Tofu
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71fWicyRW-L._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: F4
+===============
+Name: attachment-details-two-column-title
+Value: 71VdF3PgPNL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 81chXCvYKdL._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71uU5fsdR-L._AC_SX679_.jpg
+===============
+Name: ctl00$C$LLW$Item0$TBName
+Value: Facebook
+===============
+Name: attachment-details-two-column-title
+Value: 61XU1xORceL._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71C27Do5g3L._AC_SX679_.jpg
+===============
+Name: website_title
+Value: AppleTofu
+===============
+Name: realName
+Value: Apple Tofu
+===============
+Name: ctl00$C$textBoxCode
+Value: 6759
+===============
+Name: FirstName
+Value: Apple
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71LSRLBNkL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71TlkGxy0BL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 71FsWBmNx2L._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: 41tm78oFlxL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 71Ezqe0Y+GL._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51EIOwVoALL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 61MnS5fbFaL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 81fmL0lBR4L._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51-IOHpRnXL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: F6
+===============
+Name: user[email_confirmation]
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51PSLrACyIL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: image-credit-nendo-5
+===============
+Name: yoast-google-preview-slug-metabox
+Value: how-to-make-your-home-smell-like-santal-33-2
+===============
+Name: attachment-details-two-column-title
+Value: 51xWqZYPfwL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 81-WZ8QLC1L._AC_SL1500_
+===============
+Name: new_user[first_name]
+Value: Apple
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/31BjPfYMCEL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 41F7eNJ-XbL._AC_SL1000_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41F7eNJ-XbL._AC_SL1000_.jpg
+===============
+Name: e
+Value: work.arccus@gmail.com
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/07/book4-1.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71ywid1NUHL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/81chXCvYKdL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/6122uvuN27L._AC_SL1321_-1.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/41O6AsvMTTL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51xWqZYPfwL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 61rFeBrpq7L._AC_SL1500_
+===============
+Name: Email
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51eku7tiu4S._AC_SX679_.jpg
+===============
+Name: user
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51UbbFpNH5L._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: book4 (1)
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/817LKSfZ8DL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/abc.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/2.jpg
+===============
+Name: user[login]
+Value: Appletofu
+===============
+Name: attachment-details-two-column-title
+Value: 51EIOwVoALL._AC_SX679_
+===============
+Name: ctl00$C$textBoxEmail
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71Ezqe0YGL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 518MDtvBHDL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 41O6AsvMTTL._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51gGymccMKL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 51PSLrACyIL._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/4.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 71C27Do5g3L._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 8
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61LpHTfq2jL._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: Funnel Pitcher for Soap Making Measuring Cup with Long Spout
+===============
+Name: ctl00$C$textBoxConfirmEmail
+Value: appletofu.team@gmail.com
+===============
+Name: attachment-details-two-column-title
+Value: 31BjPfYMCEL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 51I-uh5jFHL._AC_SL1080_
+===============
+Name: profile[firstname]
+Value: Apple
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71SW6G-qy6S._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/6122uvuN27L._AC_SL1321_-296x300_410x452.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/F3-scaled.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 71+2ug2-3LL._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71VdF3PgPNL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: abc
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/712ug2-3LL._AC_SL1500_.jpg
+===============
+Name: website_url
+Value: https://appletofu.com/
+===============
+Name: pf_phpbb_location
+Value: USA
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/612JdEF1J2L._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 61baXdzxbaL._AC_SL1280_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/F6-scaled.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71hT88cZdoS._AC_SL1500_.jpg
+===============
+Name: newcategory
+Value: Shopping
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71FsWBmNx2L._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: 2
+===============
+Name: additionaldetail[website1]
+Value: https://appletofu.com/
+===============
+Name: attachment-details-two-column-alt-text
+Value: 11
+===============
+Name: new_user[last_name]
+Value: Tofu
+===============
+Name: attachment-details-two-column-title
+Value: 51-IOHpRnXL._AC_SL1500_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61w9NPXurTL._AC_SL1280_.jpg
+===============
+Name: attachment-details-two-column-alt-text
+Value: NueScent Aroma Oil for Scent Diffusers
+===============
+Name: attachment-details-two-column-title
+Value: 71ywid1NUHL._AC_SL1500_
+===============
+Name: attachment-details-two-column-title
+Value: 71SW6G-qy6S._AC_SL1500_
+===============
+Name: search-floating
+Value: APT_MCUP_3
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/613vXBf3b7L._AC_SL1280_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/71wLnzJ981L._AC_SL1500_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 6122uvuN27L._AC_SL1321_-296x300_410x452
+===============
+Name: attachment-details-two-column-title
+Value: 51tEDyTx4PL._AC_SX679_
+===============
+Name: attachment-details-two-column-title
+Value: 510u17YOgKS._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/10/image-credit-nendo-5.jpg
+===============
+Name: additionaldetail[website2]
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: yoast-google-preview-slug-metabox
+Value: how-to-make-your-home-smell-like-santal-33
+===============
+Name: attachment-details-two-column-title
+Value: 61qWEImQL1S._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51sqrV2ojFL._AC_SX679_.jpg
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/61baXdzxbaL._AC_SL1280_.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 51KNbSTbgnL._AC_SX679_
+===============
+Name: mail
+Value: appletofu.team@gmail.com
+===============
+Name: company[title]
+Value: AppleTofu
+===============
+Name: attachment-details-two-column-title
+Value: 51eku7tiu4S._AC_SX679_
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/1.jpg
+===============
+Name: attachment-details-two-column-title
+Value: Measuring Cups
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2021/04/F1.jpg
+===============
+Name: attachment-details-two-column-title
+Value: 41J43KT9ZdL._AC_SX679_
+===============
+Name: ctl00$C$TBWebsite
+Value: https://appletofu.com/
+===============
+Name: attachment-details-two-column-copy-link
+Value: https://appletofu.com/wp-content/uploads/2022/06/51HdjvGr3pS._AC_SL1500_.jpg
+===============
+Name: bloglink
+Value: https://nuescent.com/blogs/news/how-to-make-your-home-smell-like-santal-33
+===============
+Name: fname
+Value: Apple
+===============
+Name: term
+Value: essential oil scents
+===============
+Name: yoast-google-preview-slug-metabox
+Value: 7-must-know-essential-oil-safety-tips-and-guidelines
+===============
+Name: tl_list-search-box
+Value: e
+===============
+Name: s
+Value: shop
+===============
+Name: weburl
+Value: https://nuescent.com/blogs/news/how-to-make-your-home-smell-like-santal-33
+===============
+Name: firstName
+Value: Apple
+===============
+Name: lname
+Value: Tofu
+===============
+Name: yoast-google-preview-slug-metabox
+Value: how-to-use-a-funnel-pitcher-for-soap-making-the-ultimate-guide
+===============
+Name: s
+Value: pitcher
+===============
+Name: bname
+Value: How to Choose Essential Oil Diffuser for Home
+===============
+Name: fullName
+Value: Apple Tofu
+===============
+Name: term
+Value: aroma oil
+===============
+Name: s
+Value: office supplies
+===============
+Name: birthYear
+Value: 1996
+===============
+Name: reg_user[username]
+Value: appletofu.team@gmail.com
+===============
+Name: f[username]
+Value: Appletofu
+===============
+Name: blogurl
+Value: https://appletofu.com/how-to-make-your-home-smell-like-santal-33/
+===============
+Name: query
+Value: soap making
+===============
+Name: weburl
+Value: https://appletofu.com/how-to-use-a-funnel-pitcher-for-soap-making-the-ultimate-guide/
+===============
+Name: login
+Value: monika@yopmail.com
+===============
+Name: term
+Value: funnel set
+===============
+Name: term
+Value: plastic pitcher
+===============
+Name: first_name
+Value: Apple Tofu
+===============
+Name: term
+Value: santal 33
+===============
+Name: url
+Value: https://appletofu.com/soap-making-supplies-for-beginners-the-essential-list/
+===============
+Name: custom_profile_fields_Profile
+Value: AppleTofu
+===============
+Name: reg[login]
+Value: appletofu.team@gmail.com
+===============
+Name: name
+Value: Appletofu
+===============
+Name: user[usernameOrEmail]
+Value: Appletofu
+===============
+Name: name
+Value: How to Use a Funnel Pitcher for Soap Making - The Ultimate Guide
+===============
+Name: q
+Value: pitcher
+===============
+Name: f[name]
+Value: Apple Tofu
+===============
+Name: blogurl
+Value: https://nuescent.com/blogs/news/how-to-choose-essential-oil-diffuser-for-home
+===============
+Name: birthDay
+Value: 01
+===============
+Name: url
+Value: https://appletofu.com/how-to-make-your-home-smell-like-santal-33/
+===============
+Name: yoast-google-preview-slug-metabox
+Value: beginners-guide-to-soap-making-cold-process
+===============
+Name: description
+Value: Funnel Pitcher for Soap Making
+===============
+Name: account[last_name]
+Value: Arccus
+===============
+Name: bname
+Value: Why Essential Oil Aromatherapy Is So Popular: The Benefits Of Essential Oils
+===============
+Name: term
+Value: plastic measuring cup
+===============
+Name: url
+Value: https://appletofu.com/how-to-pick-containers-for-soapmaking/
+===============
+Name: newusernick
+Value: Appletofu
+===============
+Name: blogurl
+Value: https://appletofu.com/how-to-use-a-funnel-pitcher-for-soap-making-the-ultimate-guide/
+===============
+Name: url
+Value: https://appletofu.com/buying-measuring-cups-what-you-need-to-know/
+===============
+Name: userName
+Value: Appletofu
+===============
+Name: s
+Value: What are the Benefits of Thai Aromatherapy Oil Massage?
+===============
+Name: weburl
+Value: https://appletofu.com/how-to-pick-containers-for-soapmaking/
+===============
+Name: imgedit-scale-width-6571
+Value: 1100
+===============
+Name: term
+Value: essential oil
+===============
+Name: imgedit-scale-height-6571
+Value: 1000
+===============
+Name: term
+Value: Funnel Pitcher for Soap Making
+===============
+Name: web_link
+Value: https://appletofu.com/
+===============
+Name: custom_profile_fields_Mobile
+Value: (331) 701-8392
+===============
+Name: imgedit-scale-height-6571
+Value: 1100
+===============
+Name: user_login
+Value: appletofu.team@gmail.com
+===============
+Name: q
+Value: soap making
+===============
+Name: word_user[name]
+Value: Appletofu
+===============
+Name: email_address[email]
+Value: appletofu.team@gmail.com
+===============
+Name: reg_first_name
+Value: Apple
+===============
+Name: user
+Value: monika.digital@arccus.in
+===============
+Name: reg_last_name
+Value: Tofu
+===============
+Name: login_or_email
+Value: appletofu.team@gmail.com
+===============
+Name: code
+Value: 380714003-aaPwGYB2my
+===============
+Name: heading
+Value: pocket notebook
+===============
+Name: input
+Value: https://appletofu.com/
+===============
+Name: url
+Value: https://appletofu.com/how-to-use-a-funnel-pitcher-for-soap-making-the-ultimate-guide/
+===============
+Name: zipcode
+Value: 60564
+===============
+Name: term
+Value: aromatherapy oils
+===============
+Name: heading
+Value: Plastic Funnel Pitcher
+===============
+Name: fb_link
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: term
+Value: Funnel Pitcher For Soap Making
+===============
+Name: bname
+Value: How To Make Your Home Smell Like Santal 33
+===============
+Name: heading
+Value: Funnel Pitcher for Soap Making
+===============
+Name: heading
+Value: kitchen funnel
+===============
+Name: account[first_name]
+Value: Monika
+===============
+Name: imgedit-scale-width-6571
+Value: 1000
+===============
+Name: blogurl
+Value: https://nuescent.com/blogs/news/why-essential-oil-aromatherapy-is-so-popular-the-benefits-of-essential-oils
+===============
+Name: heading
+Value: santal 33
+===============
+Name: yoast-google-preview-slug-metabox
+Value: soap-making-supplies-for-beginners-the-essential-list
+===============
+Name: Facebook
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: yoast-google-preview-slug-metabox
+Value: 10-amazing-essential-oil-blends-for-colds-and-flu
+===============
+Name: heading
+Value: magnetic address book
+===============
+Name: heading
+Value: office supplies
+===============
+Name: id
+Value: appletofu.team@gmail.com
+===============
+Name: blogurl
+Value: https://nuescent.com/blogs/news/how-to-make-your-home-smell-like-santal-33
+===============
+Name: blogurl
+Value: https://appletofu.com/how-to-pick-containers-for-soapmaking/
+===============
+Name: name
+Value: Soap Making Supplies for Beginners: The Essential List
+===============
+Name: bname
+Value: Buying Measuring Cups: What You Need to Know
+===============
+Name: heading
+Value: password logbook
+===============
+Name: s
+Value: soap making
+===============
+Name: log
+Value: A^ppletofu@2022
+===============
+Name: yoast-google-preview-slug-metabox
+Value: how-to-pick-containers-for-soapmaking
+===============
+Name: imgedit-scale-width-6571
+Value: 900
+===============
+Name: fullname
+Value: Apple
+===============
+Name: name
+Value: Buying Measuring Cups: What You Need to Know
+===============
+Name: f2[email]
+Value: appletofu.team@gmail.com
+===============
+Name: name
+Value: How to Pick Containers for Soapmaking?
+===============
+Name: term
+Value: kitchen funnel set
+===============
+Name: email
+Value: work.arccus@gmail.com
+===============
+Name: uname
+Value: Appletofu
+===============
+Name: birthMonth
+Value: 01
+===============
+Name: username
+Value: Appletofu22
+===============
+Name: login
+Value: appletofu.team@gmail.com
+===============
+Name: u[username]
+Value: Appletofu
+===============
+Name: imgedit-scale-height-6571
+Value: 900
+===============
+Name: term
+Value: aroma therapy
+===============
+Name: yoast-google-preview-slug-metabox
+Value: shop
+===============
+Name: displayName
+Value: Apple Tofu
+===============
+Name: q
+Value: funnel pitcher
+===============
+Name: q
+Value: kitchen funnel
+===============
+Name: Website
+Value: https://appletofu.com/
+===============
+Name: term
+Value: fragrance oil
+===============
+Name: sl_list-search-box
+Value: g
+===============
+Name: lastName
+Value: Tofu
+===============
+Name: f[email]
+Value: appletofu.team@gmail.com
+===============
+Name: blogurl
+Value: https://appletofu.com/soap-making-supplies-for-beginners-the-essential-list/
+===============
+Name: Tags
+Value: pitcher, funnel set, soap making, kitchen funnel set, Plastic Funnel Pitcher, kitchen utensils, Funnel Pitcher for Soap Making, measuring cup, candle pouring pot, kitchen funnel, plastic measuring cup, soap making kit
+===============
+Name: social-input-facebook-url
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: blogurl
+Value: https://appletofu.com/buying-measuring-cups-what-you-need-to-know/
+===============
+Name: full_name
+Value: Apple Tofu
+===============
+Name: email
+Value: project.arccus@gmail.com
+===============
+Name: q
+Value: Plastic Funnel Pitcher
+===============
+Name: log
+Value: appletofu.team@gmail.com
+===============
+Name: q
+Value: blog
+===============
+Name: term
+Value: mixing pitcher
+===============
+Name: confirm_email
+Value: appletofu.team@gmail.com
+===============
+Name: full-name *
+Value: Nuescent
+===============
+Name: sitemap
+Value: https://nuescent.com/
+===============
+Name: facebook
+Value: https://www.facebook.com/appletofu.inc
+===============
+Name: m_lname
+Value: Tofu
+===============
+Name: url
+Value: appletofu.com
+===============
+Name: phone
+Value: 3317018392
+===============
+Name: yoast-google-preview-slug-metabox
+Value: the-best-essential-oil-for-your-zodiac-sign
+===============
+Name: post.resource.url
+Value: https://www.nativesnewsonline.com/beginners-guide-to-soap-making-cold-process/
+===============
+Name: username
+Value: appletofu
+===============
+Name: countfield3
+Value: 5
+===============
+Name: TextField620
+Value: essential oil
+===============
+Name: user_login
+Value: Appletofu
+===============
+Name: m_headline
+Value: AppleTofu
+===============
+Name: post.resource.title
+Value: Beginners Guide to Soap Making: Cold Process
+===============
+Name: talk[name]
+Value: How to Use a Funnel Pitcher for Soap Making - The Ultimate Guide
+===============
+Name: m_fname
+Value: Apple
+===============
+Name: url1
+Value: https://appletofu.com/
+===============
+Name: m_username
+Value: Appletofu
+===============
+Name: team-url-input
+Value: appletofu
+===============
+Name: site-submission website / blog url
+Value: https://nuescent.com/
+===============
+Name: domain
+Value: https://appletofu.com/
+===============
+Name: user_email
+Value: appletofu.team@gmail.com
+===============
+Name: address
+Value: https://www.nativesnewsonline.com/beginners-guide-to-soap-making-cold-process/
+===============
+Name: url
+Value: nuescent.com
+===============
+Name: bookmark[title]
+Value: Beginners Guide to Soap Making: ColdВ Process
+===============
+Name: url
+Value: https://www.nativesnewsonline.com/beginners-guide-to-soap-making-cold-process/
+===============
+Name: bookmark[url]
+Value: https://www.nativesnewsonline.com/beginners-guide-to-soap-making-cold-process/
+===============
+Name: domain
+Value: https://www.magnatiles.com/
+===============
+Name: countfield2
+Value: 26
+===============
+Name: log_username
+Value: Appletofu
+===============
+Name: m_email
+Value: appletofu.team@gmail.com
+===============
+Name: m_city
+Value: Illinois
+===============
+Name: email
+Value: Appletofu
+===============
+Name: keywords
+Value: soap making, kitchen funnel set, Plastic Funnel Pitcher, kitchen utensils, Funnel Pitcher for Soap Making, measuring cup, kitchen funnel, plastic measuring cup, scented candles, pitcher with lid, soap making supplies, plastic pitcher, soap making kit
+===============
+Name: user[username]
+Value: Appletofu
+===============
+Name: search-input
+Value: https://www.nativesnewsonline.com/beginners-guide-to-soap-making-cold-process/
+===============
+Name: search_text
+Value: appletofu.com
+===============
+Name: pageurl
+Value: https://nuescent.com/
+===============
+Name: team-name-input
+Value: AppleTofu
+===============
+Name: user[email]
+Value: appletofu.team@gmail.com
+===============
+Name: country-*
+Value: USA
+===============
+Name: domain
+Value: https://nuescent.com/
+===============
+Name: website
+Value: https://appletofu.com/
+===============
+Name: bm_title
+Value: Beginners Guide to Soap Making: Cold Process
+===============
+Name: sec_code
+Value: 39183
+===============
+Name: talk[formatted_published_at]
+Value: Aug 4, 2022
+===============
+Name: mat-input-18
+Value: nuescent.com/
+===============
+Name: pageurl
+Value: https://appletofu.com/
+===============
+Name: domain
+Value: appletofu.com
+===============
+Name: sl_list-search-box
+Value: e
+===============
+Name: name
+Value: AppleTofu
+===============
+Name: user[name]
+Value: Appletofu
+===============
+Name: bm_website
+Value: https://www.nativesnewsonline.com/beginners-guide-to-soap-making-cold-process/
+===============
+Name: FIRST_NAME
+Value: nue
+===============
+Name: pingurl
+Value: https://nuescent.com/blogs/news/finest-aromatherapy-essential-oils-for-peaceful-sleep
+===============
+Name: url
+Value: https://nuescent.com/blogs/news/why-essential-oil-aromatherapy-is-so-popular-the-benefits-of-essential-oils
+===============
+Name: username
+Value: NueScent
+===============
+Name: term
+Value: Essential Oil Blends for a Great Smelling Home
+===============
+Name: url
+Value: https://nuescent.com/blogs/news/10-essential-oil-blends-for-a-great-smelling-home
+===============
+Name: COMPANY_DOMAIN
+Value: https://nuescent.com/
+===============
+Name: name
+Value: How to Choose Essential Oil Diffuser for Home
+===============
+Name: url
+Value: https://appletofu.com/crucial-things-to-count-for-buying-measuring-cups/
+===============
+Name: url
+Value: https://nuescent.com/
+===============
+Name: email
+Value: nuescent.media@appletofu.com
+===============
+Name: tags
+Value: oil diffuser, essential oil diffuser, scent diffuser, aroma diffuser, aromatherapy oils, santal 33, essential oil for diffuser, santal essential oil, santal 33 diffuser oil, fragrance oil diffuser, home fragrance oil
+===============
+Name: usernameOrEmail
+Value: nuescent.media@appletofu.com
+===============
+Name: url
+Value: https://nuescent.com/blogs/news/bergamot-essential-oil-for-aromatherapy-history-benefits-and-use
+===============
+Name: email
+Value: sachin.amazon@appletofu.com
+===============
+Name: name
+Value: Cold Process soap making Method Narration
+===============
+Name: email
+Value: appletofu.team@gmail.com
+===============
+Name: term
+Value: The Most Innovative Things Happening With Essential Oil Blends For A Great Smelling Home
+===============
+Name: job
+Value: Nuescent
+===============
+Name: pingurl
+Value: https://appletofu.com/cold-process-soap-making-method-narration/
+===============
+Name: company
+Value: Nuescent
+===============
+Name: url
+Value: https://nuescent.com/blogs/news/how-to-choose-essential-oil-diffuser-for-home
+===============
+Name: myurl
+Value: https://nuescent.com/
+===============
+Name: input
+Value: https://nuescent.com/
+===============
+Name: url
+Value: nuescent.com/
+===============
+Name: name
+Value: Why Essential Oil Aromatherapy Is So Popular: The Benefits Of Essential Oils
+===============
+Name: phone
+Value: 7567475647
+===============
+Name: js_i6g
+Value: nuescent
+===============
+Name: search
+Value: santal
+===============
+Name: t1
+Value: dfbsu39z
+===============
+Name: s
+Value: essential oil
+===============
+Name: id
+Value: social.media@appletofu.com
+===============
+Name: blogurl
+Value: https://nuescent.com/blogs/news/10-essential-oil-blends-for-a-great-smelling-home
+===============
+Name: js_3t5
+Value: aroma oils
+===============
+Name: term
+Value: TYPES OF MEASURING CUPS:
+===============
+Name: yoast-google-preview-slug-metabox
+Value: Essential Oils For Women's Health | Best Oils for Feminine Problems
+===============
+Name: log
+Value: Appletofu
+===============
+Name: search-input
+Value: essential oil
+===============
+Name: url
+Value: https://nuescent.com/blogs/news/how-to-make-your-home-smell-like-santal-33
+===============
+Name: jsc_c_7c
+Value: https://nuescent.com/
+===============
+Name: keyword
+Value: Aromatherapy Essential Oils Guide
+===============
+Name: rssurl
+Value: https://nuescent.com/blogs/news/10-essential-oil-blends-for-a-great-smelling-home
+===============
+Name: name
+Value: How To Make Your Home Smell Like Santal 33
+===============
+Name: Name
+Value: Nuescent
+===============
+Name: username
+Value: nuescent
+===============
+Name: term
+Value: 10 Essential Oil Blends For A Great Smelling Home
+===============
+Name: term
+Value: MEASURING CUPS: 4 THINGS TO KNOW BEFORE YOU BUY
+===============
+Name: name
+Value: 10 Essential Oil Blends for a Great Smelling Home
+===============
+Name: bloglink
+Value: https://nuescent.com/
+===============
+Name: input_name
+Value: Nuescent
+===============
+Name: blogurl
+Value: https://appletofu.com/crucial-things-to-count-for-buying-measuring-cups/
+===============
+Name: log
+Value: SuperAdmin
+===============
+Name: yoast-google-preview-slug-metabox
+Value: 27614-2
+===============
+Name: pepWebsite
+Value: https://nuescent.com/
+===============
+Name: keyword
+Value: 10 Essential Oil Blends for a Great Smelling Home
+===============
+Name: search-input
+Value: lifestyle
+===============
+Name: emailAddress
+Value: appletofu.team@gmail.com
+===============
+Name: blogurl
+Value: https://nuescent.com/blogs/news/bergamot-essential-oil-for-aromatherapy-history-benefits-and-use
+===============
+Name: name
+Value: nue scent
+===============
+Name: url
+Value: https://nuescent.com/blogs/news/finest-aromatherapy-essential-oils-for-peaceful-sleep
+===============
+Name: s
+Value: google site kit
+===============
+Name: COMPANY_NAME
+Value: https://nuescent.com/
+===============
+Name: blogurl
+Value: https://nuescent.com/blogs/news/finest-aromatherapy-essential-oils-for-peaceful-sleep
+===============
+Name: fullname
+Value: Apple Tofu
+===============
+Name: bname
+Value: Finest Aromatherapy Essential Oils For Peaceful Sleep
+===============
+Name: tl_list-search-box
+Value: g
+===============
+Name: submit-url
+Value: https://nuescent.com/
+===============
+Name: name
+Value: Crucial Things To Count For Buying Measuring Cups
+===============
+Name: bloglink
+Value: https://nuescent.com/blogs/news/finest-aromatherapy-essential-oils-for-peaceful-sleep
+===============
+Name: user_login
+Value: Nuescent
+===============
+Name: public_email
+Value: nuescent.media@appletofu.com
+===============
+Name: url
+Value: https://appletofu.com/
+===============
+Name: keyword
+Value: aromatherapy essential oil
+===============
+Name: heading
+Value: plastic measuring cup
+===============
+Name: pingurl
+Value: https://appletofu.com/crucial-things-to-count-for-buying-measuring-cups/
+===============
+Name: bloglink
+Value: https://www.startposts.com/10-amazing-essential-oil-blends-for-colds-and-flu/
+===============
+Name: LAST_NAME
+Value: scent
+===============
+Name: username
+Value: nuescent22
+===============
+Name: emailaddress
+Value: appletofu.team@gmail.com
+===============
+Name: input_email
+Value: nuescent.media@appletofu.com
+===============
+Name: username
+Value: appletofu.team@gmail.com
+===============
+Name: url
+Value: https://appletofu.com/cold-process-soap-making-method-narration/
+===============
+Name: custom Website
+Value: https://nuescent.com/
+===============
+Name: yoast-google-preview-slug-metabox
+Value: cold-process-soap-making-method-narration
+===============
+Name: js_i6l
+Value: https://nuescent.com/
+===============
+Name: keyword
+Value: Measuring Cups, Cold Process soap making
+===============
+Name: user
+Value: nuescent.media@appletofu.com
+===============
+Name: term
+Value: 10 Best Essential Oil Blends for a Great Smelling Home
+===============
+Name: bname
+Value: 10 Essential Oil Blends for a Great Smelling Home
+===============
+Name: term
+Value: Essential Oil Blends For A Great Smelling Home
+===============
+Name: term
+Value: 10 Best Essential Oil Blends for a Great Smelling Home and How to Use Them
+===============
+Name: search-input
+Value: e-commerce
+===============
+Name: yoast-google-preview-slug-metabox
+Value: essential-oils-for-womens-health-best-oils-for-feminine-problems
+===============
+Name: input_url
+Value: https://nuescent.com/
+===============
+Name: username
+Value: Appletofu
+===============
+Name: user_email
+Value: nuescent.media@appletofu.com
+===============
+Name: name
+Value: Finest Aromatherapy Essential Oils For Peaceful Sleep
+===============
+Name: term
+Value: Aromatherapy Essential Oils Guide
+===============
+Name: log
+Value: Nuescent
+===============
+Name: name
+Value: Bergamot Essential Oil for Aromatherapy: History, Benefits and Use
+===============
+Name: kp_url
+Value: https://nuescent.com/

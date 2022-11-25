@@ -1,0 +1,31 @@
+***************************************************************************************************
+
+Name: demoAccountPassword
+Value: Test@123
+===============
+Name: contactPhone
+Value: (+44) 7581 240491
+===============
+Name: contactLastName
+Value: Gill
+===============
+Name: contactFirstName
+Value: Lawrence
+===============
+Name: contactEmail
+Value: lawrence@allintheloop.com
+===============
+Name: copyright
+Value: All In The Loop Inc.
+===============
+Name: keywords
+Value: Messages, Record videos, Video call, Share Documents, Team Meetings
+===============
+Name: demoAccountName
+Value: joe@yopmail.com
+===============
+Name: supportUrl
+Value: https://www.filechannels.com/contact-us.html
+===============
+Name: versionString
+Value: 1.0

@@ -1,0 +1,13 @@
+***************************************************************************************************
+
+Name: Username
+Value: parchukdmytro1
+===============
+Name: identifier
+Value: parchukdmytro1@gmail.com
+===============
+Name: login
+Value: crazycodinglover
+===============
+Name: search
+Value: portfolio

@@ -1,0 +1,30 @@
+***************************************************************************************************
+
+Build ID: 9999MM
+IP: 103.31.101.192
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe
+UserName: wasio
+Country: PK
+Zip Code: 12311
+Location: Karachi, Sindh
+HWID: 4D6A4985ABE3198A2563F658E1F74A0A
+Current Language: English (United States)
+ScreenSize: {Width=3000, Height=1920}
+TimeZone: (UTC+05:00) Islamabad, Karachi
+Operation System: Windows 10 Home x64
+UAC: AllowAll
+Process Elevation: False
+Log date: 9/27/2022 9:07:15 AM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz, 4 Cores
+Name: Radeon RX 570 Series, 4293918720 bytes
+Name: Total of RAM, 16253.3 MB or 17042825216 bytes
+
+
+Anti-Viruses: 
+Windows Defender

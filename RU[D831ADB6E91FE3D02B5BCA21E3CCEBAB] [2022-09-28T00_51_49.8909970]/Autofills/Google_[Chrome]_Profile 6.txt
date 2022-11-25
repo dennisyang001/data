@@ -1,0 +1,40 @@
+***************************************************************************************************
+
+Name: identifier
+Value: vyazemskiydaniil0320
+===============
+Name: sl_list-search-box
+Value: en
+===============
+Name: sl_list-search-box
+Value: ko
+===============
+Name: tl_list-search-box
+Value: en
+===============
+Name: email
+Value: danielswe0626@gamil.com
+===============
+Name: sl_list-search-box
+Value: e
+===============
+Name: tl_list-search-box
+Value: k
+===============
+Name: tl_list-search-box
+Value: ko
+===============
+Name: sl_list-search-box
+Value: eng
+===============
+Name: email-newsletter-58
+Value: danielswe0626@gamil.com
+===============
+Name: tl_list-search-box
+Value: kor
+===============
+Name: sl_list-search-box
+Value: kor
+===============
+Name: tl_list-search-box
+Value: kore

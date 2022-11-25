@@ -1,0 +1,70 @@
+***************************************************************************************************
+
+Name: sign-in-userid
+Value: rcs1105
+===============
+Name: sign-in-phone-number
+Value: +1 810 936 0975
+===============
+Name: first-name-input
+Value: Lucas
+===============
+Name: last-name-input
+Value: Cheung
+===============
+Name: step-rate
+Value: 25.00
+===============
+Name: receive-step-rate
+Value: 20.00
+===============
+Name: bidAmount
+Value: 10
+===============
+Name: charged-amount-id
+Value: 2500.00
+===============
+Name: earned-amount-id
+Value: 2200.00
+===============
+Name: step-rate
+Value: 30.00
+===============
+Name: receive-step-rate
+Value: 24.00
+===============
+Name: step-rate
+Value: 40.00
+===============
+Name: receive-step-rate
+Value: 32.00
+===============
+Name: sign-in-phone-number
+Value: +7 922 128 7725
+===============
+Name: step-rate
+Value: 20.00
+===============
+Name: receive-step-rate
+Value: 16.00
+===============
+Name: login
+Value: sven971105@gmail.com
+===============
+Name: first_name
+Value: Lucas
+===============
+Name: last_name
+Value: Cheung
+===============
+Name: email
+Value: sven971105@gmail.com
+===============
+Name: email
+Value: aloshya@sven1105.anonaddy.com
+===============
+Name: redesigned-input-email
+Value: aloshya@sven1105.anonaddy.com
+===============
+Name: bidAmount
+Value: 20

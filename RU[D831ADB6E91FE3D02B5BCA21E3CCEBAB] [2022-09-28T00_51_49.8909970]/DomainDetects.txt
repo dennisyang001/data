@@ -1,0 +1,4 @@
+PDD: NOT FOUND
+
+CDD: 
+[MONEY] binance.com (20), [MONEY] gemini.com (2), [MONEY] coinmarketcap.com (3), [PayPal] paypal.com (3), [Amazon] amazon.com (26)

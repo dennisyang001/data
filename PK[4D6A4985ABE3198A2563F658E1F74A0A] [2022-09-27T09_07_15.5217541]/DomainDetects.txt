@@ -1,0 +1,4 @@
+PDD: 
+[MONEY] payoneer.com (2)
+CDD: 
+[BANKS] dime.com (7), [MONEY] binance.com (422), [MONEY] payoneer.com (38), [MONEY] coinmarketcap.com (6), [PayPal] paypal.com (41), [Amazon] amazon.com (23), [GPay] pay.google.com (3)

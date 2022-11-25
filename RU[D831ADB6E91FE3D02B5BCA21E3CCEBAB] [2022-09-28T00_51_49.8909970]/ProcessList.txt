@@ -1,0 +1,233 @@
+***************************************************************************************************
+
+ID: 712, Name: csrss.exe, CommandLine: 
+===============
+ID: 824, Name: winlogon.exe, CommandLine: 
+===============
+ID: 996, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 1120, Name: dwm.exe, CommandLine: 
+===============
+ID: 1236, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 5628, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 5588, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 588, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 2244, Name: explorer.exe, CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 4888, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 6432, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 6960, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 7076, Name: igfxEM.exe, CommandLine: igfxEM.exe 
+===============
+ID: 7084, Name: igfxHK.exe, CommandLine: igfxHK.exe 
+===============
+ID: 7092, Name: igfxTray.exe, CommandLine: igfxTray.exe 
+===============
+ID: 6648, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7244, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 736, Name: Everything.exe, CommandLine: "C:\Program Files\Everything\Everything.exe" -startup
+===============
+ID: 7316, Name: Lingoes64.exe, CommandLine: "C:\Program Files\Lingoes\Translator2\Lingoes64.exe" -minimize
+===============
+ID: 6812, Name: NVDisp.exe, CommandLine: "C:\Windows\NVDisp.exe" 
+===============
+ID: 1464, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 2504, Name: digital_clock.exe, CommandLine: "C:\Program Files\Nick Korotysh\Digital Clock\digital_clock.exe" 
+===============
+ID: 3512, Name: winlegins.exe, CommandLine: winlegins.exe
+===============
+ID: 3504, Name: slack.exe, CommandLine: --process-start-args --startup
+===============
+ID: 7588, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" 
+===============
+ID: 3000, Name: IPMsg.exe, CommandLine: "C:\Users\Simba\AppData\Local\IPMsg\IPMsg.exe" 
+===============
+ID: 7796, Name: ONENOTEM.EXE, CommandLine: "C:\Program Files (x86)\Microsoft Office\root\Office16\ONENOTEM.EXE" /tsr
+===============
+ID: 6864, Name: Lightshot.exe, CommandLine: "C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\Lightshot.exe" 
+===============
+ID: 7280, Name: slack.exe, CommandLine: C:\Users\Simba\AppData\Local\slack\app-4.28.182\slack.exe --type=crashpad-handler --user-data-dir=C:\Users\Simba\AppData\Roaming\Slack /prefetch:7 --no-rate-limit --no-upload-gzip --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\Simba\AppData\Roaming\Slack\Crashpad --url=https://slack.com/apps/sentryproxy/api/5277886/minidump/?sentry_key=fd30fe469dbf4aec9db40548e5acf91e --annotation=_productName=Slack --annotation=_version=4.28.182 --annotation=plat=Win64 --annotation=prod=Electron "--annotation=sentry___initialScope={\"release\":\"Slack@4.28.182\",\"environment\":\"production\",\"user\":{\"id\":\"8c47309e-004f-4040-9bbf-33f2d6a9e9eb\"},\"tags\":{\"uuid\":\"8c47309e-004f-4040-9bbf-33f2d6a9e9eb\"}}" --annotation=ver=20.1.3 --initial-client-data=0x4b4,0x4b8,0x4bc,0x4b0,0x4c0,0x7ff7e72be868,0x7ff7e72be878,0x7ff7e72be888
+===============
+ID: 6848, Name: Discord.exe, CommandLine: "C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\Discord.exe" 
+===============
+ID: 3544, Name: slack.exe, CommandLine: "C:\Users\Simba\AppData\Local\slack\app-4.28.182\slack.exe" --type=gpu-process --enable-logging --user-data-dir="C:\Users\Simba\AppData\Roaming\Slack" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --enable-logging --log-file="C:\Users\Simba\AppData\Roaming\Slack\logs\default\electron_debug.log" --mojo-platform-channel-handle=1724 --field-trial-handle=1700,i,14247540648544647176,3315021241676346864,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,LogJsConsoleMessages,RequestInitiatorSiteLockEnfocement,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2
+===============
+ID: 7124, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Simba\AppData\Roaming\Microsoft\Skype for Store" /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Simba\AppData\Roaming\Microsoft\Skype for Store\Crashpad" --url=appcenter://generic?aid=a8902fe7-ef45-455c-8513-5e56d48e36fd&iid=76a2333e-2b81-4980-3884-b6e0a4154f78&uid=76a2333e-2b81-4980-3884-b6e0a4154f78<##>aria://?_event=main_crashed&_token=a173030604a34bdcbf21ca59134c7430-2a34e3b5-60e1-4a11-ad6d-2e9eac9ac07c-6614&CrashType=native_crash&DeviceInfo.Id=76a2333e2b819803884b6e0a4154f786&DeviceInfo.OsName=Windows_NT&DeviceInfo.OsVersion=10.0.19042&Platform_Id=1434&Platform_Uiversion=1434/8.88.0.401/ --annotation=_companyName=Skype --annotation=_productName=skype-preview --annotation=_version=8.88.0.401 --annotation=plat=Win32 --annotation=prod=Electron --annotation=ver=19.0.9 --initial-client-data=0x634,0x638,0x63c,0x630,0x640,0x7b89358,0x7b89368,0x7b89374
+===============
+ID: 1164, Name: slack.exe, CommandLine: "C:\Users\Simba\AppData\Local\slack\app-4.28.182\slack.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --enable-logging --user-data-dir="C:\Users\Simba\AppData\Roaming\Slack" --standard-schemes=app,slack-webapp-dev --enable-sandbox --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --enable-logging --log-file="C:\Users\Simba\AppData\Roaming\Slack\logs\default\electron_debug.log" --mojo-platform-channel-handle=2000 --field-trial-handle=1700,i,14247540648544647176,3315021241676346864,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,LogJsConsoleMessages,RequestInitiatorSiteLockEnfocement,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 1304, Name: Discord.exe, CommandLine: C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\Simba\AppData\Roaming\discord /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\Simba\AppData\Roaming\discord\Crashpad --url=https://sentry.io/api/146342/minidump/?sentry_key=384ce4413de74fe0be270abe03b2b35a "--annotation=_companyName=Discord Inc." --annotation=_productName=Discord --annotation=_version=1.0.9006 --annotation=prod=Electron --annotation=ver=13.6.6 --initial-client-data=0x47c,0x480,0x484,0x478,0x488,0x7d23850,0x7d23860,0x7d2386c
+===============
+ID: 5328, Name: Discord.exe, CommandLine: "C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=gpu-process --field-trial-handle=1636,8741688804338869173,3821886961402892315,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --gpu-preferences=SAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --mojo-platform-channel-handle=1688 /prefetch:2
+===============
+ID: 3788, Name: Discord.exe, CommandLine: "C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1636,8741688804338869173,3821886961402892315,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2108 /prefetch:8
+===============
+ID: 3480, Name: slack.exe, CommandLine: "C:\Users\Simba\AppData\Local\slack\app-4.28.182\slack.exe" --type=renderer --user-data-dir="C:\Users\Simba\AppData\Roaming\Slack" --standard-schemes=app,slack-webapp-dev --enable-sandbox --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-user-model-id=com.squirrel.slack.slack --app-path="C:\Users\Simba\AppData\Local\slack\app-4.28.182\resources\app.asar" --enable-sandbox --enable-blink-features=ExperimentalJSProfiler --disable-blink-features --autoplay-policy=no-user-gesture-required --enable-logging --force-color-profile=srgb --log-file="C:\Users\Simba\AppData\Roaming\Slack\logs\default\electron_debug.log" --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=173220778 --mojo-platform-channel-handle=2736 --field-trial-handle=1700,i,14247540648544647176,3315021241676346864,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,LogJsConsoleMessages,RequestInitiatorSiteLockEnfocement,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --window-type=main /prefetch:1
+===============
+ID: 7448, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=gpu-process --user-data-dir="C:\Users\Simba\AppData\Roaming\Microsoft\Skype for Store" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=2204 --field-trial-handle=2232,i,5651385085518557537,18019238834686464960,131072 --enable-features=WinUseBrowserSpellChecker,WinUseHybridSpellChecker,WinrtGeolocationImplementation --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2
+===============
+ID: 7480, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\Simba\AppData\Roaming\Microsoft\Skype for Store" --mojo-platform-channel-handle=2524 --field-trial-handle=2232,i,5651385085518557537,18019238834686464960,131072 --enable-features=WinUseBrowserSpellChecker,WinUseHybridSpellChecker,WinrtGeolocationImplementation --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 2328, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 6068, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=renderer --user-data-dir="C:\Users\Simba\AppData\Roaming\Microsoft\Skype for Store" --app-user-model-id=Microsoft.Skype.SkypeDesktop --app-path="C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --disable-background-timer-throttling --ms-disable-indexeddb-transaction-timeout --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=189628949 --mojo-platform-channel-handle=2880 --field-trial-handle=2232,i,5651385085518557537,18019238834686464960,131072 --enable-features=WinUseBrowserSpellChecker,WinUseHybridSpellChecker,WinrtGeolocationImplementation --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --skype-process-type=Main --skype-window-id=__MAIN_ROOT_VIEW_ID__ /prefetch:1
+===============
+ID: 2416, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8024, Name: Skype.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.88.3401.0_x86__kzf8qxf38zg5c\Skype\Skype.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --user-data-dir="C:\Users\Simba\AppData\Roaming\Microsoft\Skype for Store" --mojo-platform-channel-handle=3440 --field-trial-handle=2232,i,5651385085518557537,18019238834686464960,131072 --enable-features=WinUseBrowserSpellChecker,WinUseHybridSpellChecker,WinrtGeolocationImplementation --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 6856, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXjd5de1g66v206tj52m9d0dtpppx4cgpn.mca
+===============
+ID: 3956, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 4756, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6444, Name: PhoneExperienceHost.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22072.207.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 1776, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 324, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 848, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 2032, Name: ApplicationFrameHost.exe, CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 6628, Name: HxOutlook.exe, CommandLine: "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxOutlook.exe" -ServerName:microsoft.windowslive.mail.AppXfbjsbkxvprcgqg6q4c9jfr0pn3kv9x5s.mca
+===============
+ID: 8744, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6620, Name: HxTsr.exe, CommandLine: "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+===============
+ID: 540, Name: HxAccounts.exe, CommandLine: "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxAccounts.exe" -ServerName:microsoft.windowslive.manageaccounts.AppXdbf3yp5apt3t7q877db3gnz5zqpf71zj.mca
+===============
+ID: 8528, Name: Calculator.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca
+===============
+ID: 9132, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7028, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 9276, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 9504, Name: dllhost.exe, CommandLine: "C:\WINDOWS\SysWOW64\DllHost.exe" /Processid:{776DBC8D-7347-478C-8D71-791E12EF49D8}
+===============
+ID: 9064, Name: Discord.exe, CommandLine: "C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=1636,8741688804338869173,3821886961402892315,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\resources\app.asar" --no-sandbox --no-zygote --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3308 /prefetch:1 --enable-node-leakage-in-renderers
+===============
+ID: 11072, Name: Discord.exe, CommandLine: "C:\Users\Simba\AppData\Local\Discord\app-1.0.9006\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1636,8741688804338869173,3821886961402892315,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=3808 /prefetch:8
+===============
+ID: 10984, Name: SDXHelper.exe, CommandLine: "C:\Program Files (x86)\Microsoft Office\Root\Office16\SDXHelper.exe" -Embedding
+===============
+ID: 10528, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca
+===============
+ID: 4916, Name: svchost.exe, CommandLine: 
+===============
+ID: 8904, Name: conhost.exe, CommandLine: 
+===============
+ID: 8708, Name: AnyDesk.exe, CommandLine: "C:\Program Files (x86)\AnyDesk\AnyDesk.exe" --control
+===============
+ID: 200, Name: LockApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+===============
+ID: 9644, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8856, Name: Video.UI.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22041.10091.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 9920, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 4320, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 8836, Name: Telegram.exe, CommandLine: "C:\Users\Simba\AppData\Roaming\Telegram Desktop\Telegram.exe" 
+===============
+ID: 10168, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k PrintWorkflow -s PrintWorkflowUserSvc
+===============
+ID: 7804, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 8432, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Simba\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Simba\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\Simba\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=105.0.5195.127 --initial-client-data=0x110,0x114,0x118,0xec,0x11c,0x7ffbba685130,0x7ffbba685140,0x7ffbba685150
+===============
+ID: 9620, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1744 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:2
+===============
+ID: 4596, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=1984 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:8
+===============
+ID: 7416, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2164 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:8
+===============
+ID: 6360, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --launch-time-ticks=15633059077 --mojo-platform-channel-handle=4984 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 1528, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --launch-time-ticks=15633172627 --mojo-platform-channel-handle=3844 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 9584, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --launch-time-ticks=15633178437 --mojo-platform-channel-handle=5076 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 5504, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=11 --launch-time-ticks=15633337724 --mojo-platform-channel-handle=3772 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 10440, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=proxy_resolver.mojom.ProxyResolverFactory --lang=en-US --service-sandbox-type=service --mojo-platform-channel-handle=6272 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:8
+===============
+ID: 8784, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=29 --launch-time-ticks=15659227263 --mojo-platform-channel-handle=4828 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 7164, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=30 --launch-time-ticks=15661471524 --mojo-platform-channel-handle=7900 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 8348, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=7420 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:8
+===============
+ID: 1976, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=64 --launch-time-ticks=17508982849 --mojo-platform-channel-handle=2808 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 11564, Name: BigAnt5.exe, CommandLine: "C:\Program Files (x86)\BigAnt5\Client\BigAnt5.exe" 
+===============
+ID: 11876, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 9976, Name: SystemSettingsBroker.exe, CommandLine: C:\Windows\System32\SystemSettingsBroker.exe -Embedding
+===============
+ID: 8760, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=108 --launch-time-ticks=23886860447 --mojo-platform-channel-handle=7124 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 6600, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=121 --launch-time-ticks=25852110005 --mojo-platform-channel-handle=6672 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 9188, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=122 --launch-time-ticks=25852745837 --mojo-platform-channel-handle=2936 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 6548, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=media.mojom.SpeechRecognitionService --lang=en-US --service-sandbox-type=speech_recognition --mojo-platform-channel-handle=4852 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:8
+===============
+ID: 10808, Name: Microsoft.Photos.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2022.30070.26007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca
+===============
+ID: 8272, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9004, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=265 --launch-time-ticks=37460288436 --mojo-platform-channel-handle=8252 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 9596, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=280 --launch-time-ticks=38658880831 --mojo-platform-channel-handle=10072 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 6300, Name: OConnect.exe, CommandLine: 
+===============
+ID: 3608, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=467 --launch-time-ticks=44627079492 --mojo-platform-channel-handle=8872 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 6308, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=599 --launch-time-ticks=58941615436 --mojo-platform-channel-handle=7600 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 8420, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=628 --launch-time-ticks=61404747017 --mojo-platform-channel-handle=8580 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 7928, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=638 --launch-time-ticks=61620130565 --mojo-platform-channel-handle=12056 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 7924, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=639 --launch-time-ticks=61681051154 --mojo-platform-channel-handle=9544 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 11964, Name: chrome.exe, CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=650 --launch-time-ticks=61821448444 --mojo-platform-channel-handle=10628 --field-trial-handle=1876,i,14219406025039088329,2761602959216667223,131072 /prefetch:1
+===============
+ID: 11416, Name: Bandizip.exe, CommandLine: "C:\Program Files\Bandizip\Bandizip.exe" "C:\Users\Simba\Downloads\Requirements.rar"
+===============
+ID: 3212, Name: web32.exe, CommandLine: "C:\Program Files\Bandizip\data\web32.exe" 00550840
+===============
+ID: 9532, Name: web32.exe, CommandLine: "C:\Program Files\Bandizip\data\web32.exe" 000e06d8
+===============
+ID: 11636, Name: SearchProtocolHost.exe, CommandLine: "C:\WINDOWS\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-22609774-4287775892-835169218-100179_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-22609774-4287775892-835169218-100179 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1"
+===============
+ID: 12052, Name: backgroundTaskHost.exe, CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
+===============
+ID: 4372, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7820, Name: Requirements.scr, CommandLine: C:\Users\Simba\Downloads\documents\Requirements.scr
+===============
+ID: 10688, Name: WINWORD.EXE, CommandLine: "C:\Program Files (x86)\Microsoft Office\Root\Office16\WINWORD.EXE" /n "C:\Users\Simba\Downloads\documents\aboutus\COMPANY PROFILE.docx" /o ""
+===============
+ID: 10888, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 11652, Name: WINWORD.EXE, CommandLine: "C:\Program Files (x86)\Microsoft Office\Root\Office16\WINWORD.EXE"  /Embedding

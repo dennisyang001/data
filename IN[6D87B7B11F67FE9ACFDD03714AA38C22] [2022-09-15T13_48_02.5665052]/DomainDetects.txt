@@ -1,0 +1,4 @@
+PDD: 
+[MONEY] payoneer.com (2), [PayPal] paypal.com (10), [Amazon] amazon.com (33), [BusFB] business.facebook.com (3)
+CDD: 
+[PayPal] paypal.com (34), [Amazon] amazon.com (132)

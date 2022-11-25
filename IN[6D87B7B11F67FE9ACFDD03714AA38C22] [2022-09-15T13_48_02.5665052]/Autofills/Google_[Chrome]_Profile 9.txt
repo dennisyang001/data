@@ -1,0 +1,154 @@
+***************************************************************************************************
+
+Name: user
+Value: ravi.k@sourceved.com
+===============
+Name: email
+Value: ravi.k@sourceved.com
+===============
+Name: _alarm_value
+Value: 15
+===============
+Name: _categories[184daff620aca4ad23fd2bf70d0b76af]
+Value: Personal
+===============
+Name: _colors[184daff620aca4ad23fd2bf70d0b76af]
+Value: c0c0c0
+===============
+Name: _categories[0f9263536b9fc61ada745644735bfd8f]
+Value: Work
+===============
+Name: _colors[0f9263536b9fc61ada745644735bfd8f]
+Value: ff0000
+===============
+Name: _categories[cefc4f7cbc8c34762e0f76703e7e174e]
+Value: Family
+===============
+Name: _colors[cefc4f7cbc8c34762e0f76703e7e174e]
+Value: 00ff00
+===============
+Name: _categories[84b8343a7057dcab0a7c7acb6dd4862e]
+Value: Holiday
+===============
+Name: _colors[84b8343a7057dcab0a7c7acb6dd4862e]
+Value: ff6600
+===============
+Name: displayName
+Value: Ravi
+===============
+Name: name
+Value: Speak Club Mobile
+===============
+Name: username
+Value: ravik
+===============
+Name: _q
+Value: devendra
+===============
+Name: id-checklist
+Value: Timer
+===============
+Name: id-checklist
+Value: Video Player
+===============
+Name: name
+Value: High
+===============
+Name: name
+Value: Low
+===============
+Name: name
+Value: Medium
+===============
+Name: id-checklist
+Value: Like List : Recent liked video should be on top
+===============
+Name: id-checklist
+Value: QA Findings
+===============
+Name: _subject
+Value: Ui Improvements Approval
+===============
+Name: id-checklist
+Value: CR
+===============
+Name: id-checklist
+Value: Analytics Icons For Sentiment
+===============
+Name: id-checklist
+Value: Pace
+===============
+Name: id-checklist
+Value: Bottom menu
+===============
+Name: id-checklist
+Value: Side bar menus
+===============
+Name: id-checklist
+Value: Question Button
+===============
+Name: id-checklist
+Value: Analytics Icons Order List
+===============
+Name: id-checklist
+Value: Search feature
+===============
+Name: id-checklist
+Value: Screen
+===============
+Name: name
+Value: Redundant
+===============
+Name: _q
+Value: amir
+===============
+Name: cdmsg
+Value: 52a60a124a38a51a38a46a55a53a118a99a123a125a99a117a53a35a53a102a48a42a39a59a32a117a62a126a61a35a48a51a62a40a57a60a98a52a45a34a55a111a101a126a39a52a32a107a33a56a40a63a57a100a107a104a97a117a127a110a116a105a110a112a100a107a118a113a123a98a119a108a97a
+===============
+Name: femsg
+Value: 1
+===============
+Name: bhvmsg
+Value: 61a52a33a101a106a122a48a119a38a39a119a63a48a33a97a32a
+===============
+Name: jsdk
+Value: ZvIRXoFOWa
+===============
+Name: glv
+Value: 56a110a112a98a60a41a39a43a122a35a98a98a123a127a108a41a114a126a122a121a59a50a44a127a108a125a119a43a51a118a62a52a112a49a59a124a104a35a56a34a59a58a
+===============
+Name: lext
+Value: 1a102a101a98a5a
+===============
+Name: sdrv
+Value: 0
+===============
+Name: gprid
+Value: ld
+===============
+Name: cdmsg
+Value: 59a36a119a37a33a39a43a53a54a98a119a111a101a123a99a57a40a46a100a63a50a32a56a60a110a60a108a39a58a51a56a34a47a40a41a121a39a44a55a39a127a125a116a56a56a58a99a44a62a35a43a44a96a109a101a96a113a97a115a123a112a117a109a99a125a123a102a126a123a117a123a99a
+===============
+Name: bhvmsg
+Value: 50a44a42a102a120a123a53a117a37a51a99a43a40a57a119a44a
+===============
+Name: jsdk
+Value: unBqjncMT
+===============
+Name: glv
+Value: 52a42a115a96a46a40a37a44a121a96a123a122a55a103a122a117a123a97a120a44a113a96a120a99a114a122a108a101a43a114a102a40a120a123a116a49a123a34a45a50a43a34a
+===============
+Name: lext
+Value: 14a126a110a97a23a
+===============
+Name: _q
+Value: trello
+===============
+Name: _q
+Value: demo
+===============
+Name: login
+Value: testreact
+===============
+Name: id-checklist
+Value: Values

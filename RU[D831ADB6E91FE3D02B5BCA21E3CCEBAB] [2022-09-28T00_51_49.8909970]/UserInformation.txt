@@ -1,0 +1,31 @@
+***************************************************************************************************
+
+Build ID: LXN01
+IP: 188.43.235.177
+FileLocation: C:\Users\Simba\Downloads\documents\Requirements.scr
+UserName: Simba
+Country: RU
+Zip Code: 394009
+Location: Voronezh, Voronezhskaya oblast'
+HWID: D831ADB6E91FE3D02B5BCA21E3CCEBAB
+Current Language: English (United States)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC-05:00) Eastern Time (US & Canada)
+Operation System: Windows 10 Enterprise x64
+UAC: AllowAll
+Process Elevation: False
+Log date: 9/28/2022 12:51:49 AM
+
+Available KeyboardLayouts: 
+English (United States)
+Korean (Korea)
+
+
+Hardwares: 
+Name: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, 4 Cores
+Name: Intel(R) HD Graphics 4600, 1073741824 bytes
+Name: Total of RAM, 7631.26 MB or 8001953792 bytes
+
+
+Anti-Viruses: 
+Windows Defender

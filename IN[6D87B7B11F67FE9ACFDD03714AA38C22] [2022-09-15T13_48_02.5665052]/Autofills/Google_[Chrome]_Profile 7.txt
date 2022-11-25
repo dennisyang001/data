@@ -1,0 +1,43 @@
+***************************************************************************************************
+
+Name: betaAppLocalizations[de-de].feedbackEmail
+Value: ravikapupara@gmail.com
+===============
+Name: betaAppReviewDetails.contactFirstName
+Value: Ravi
+===============
+Name: betaAppReviewDetails.contactPhone
+Value: 7567475647
+===============
+Name: betaAppReviewDetails.contactLastName
+Value: Kapupara
+===============
+Name: betaAppReviewDetails.contactEmail
+Value: ravikapupara@gmail.com
+===============
+Name: betaAppLocalizations[en-us].feedbackEmail
+Value: ravikapupara@gmail.com
+===============
+Name: versionString
+Value: 1.0
+===============
+Name: newGroupName
+Value: External Testing
+===============
+Name: newGroupName
+Value: Investor Group
+===============
+Name: newGroupName
+Value: Client Group
+===============
+Name: newGroupName
+Value: Internal Test Group
+===============
+Name: firstName
+Value: Samir
+===============
+Name: lastName
+Value: Arccus
+===============
+Name: email
+Value: arccus.pm@gmail.com

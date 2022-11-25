@@ -1,0 +1,829 @@
+***************************************************************************************************
+
+Name: username
+Value: sergio.pinilos.dev@gmail.com
+===============
+Name: email
+Value: top.developer.46@gmail.com
+===============
+Name: ycid-input
+Value: topDeveloper
+===============
+Name: username
+Value: top.developer.46@gmail.com
+===============
+Name: usernameOrEmail
+Value: top.developer.46@gmail.com
+===============
+Name: opt_in
+Value: y
+===============
+Name: name
+Value: TopDev
+===============
+Name: location
+Value: United States
+===============
+Name: salary_min
+Value: 100,000
+===============
+Name: short_phrase
+Value: dedicated blockchain developer who is passionate about the blockchain future
+===============
+Name: candidate[name]
+Value: John Anderson
+===============
+Name: candidate[email]
+Value: top.developer.46@gmail.com
+===============
+Name: candidate[address]
+Value: Port Huron, MI, USA
+===============
+Name: preferredContractRate
+Value: 75
+===============
+Name: preferredSalary
+Value: 120000
+===============
+Name: jobTitle
+Value: blockchain developer
+===============
+Name: jobTitle
+Value: blockchain
+===============
+Name: undefined-text
+Value: 80
+===============
+Name: first_name
+Value: John
+===============
+Name: last_name
+Value: Anderson
+===============
+Name: oauth_access[description]
+Value: access
+===============
+Name: oauth_access[description]
+Value: control
+===============
+Name: firstname
+Value: John
+===============
+Name: lastname
+Value: Anderson
+===============
+Name: headline
+Value: FullStack developer at Maxos LLC
+===============
+Name: address
+Value: Port Huron, MI, US
+===============
+Name: name
+Value: John Anderson
+===============
+Name: phone
+Value: +14085209671
+===============
+Name: urls[GitHub]
+Value: https://github.com/ninja-home
+===============
+Name: data[Account][username]
+Value: top.developer.46@gamil.com
+===============
+Name: data[Account][username]
+Value: top.developer.46@gmail.com
+===============
+Name: fname
+Value: John
+===============
+Name: lname
+Value: Anderson
+===============
+Name: num1
+Value: 8
+===============
+Name: num2
+Value: 0
+===============
+Name: num3
+Value: 4
+===============
+Name: num4
+Value: 1
+===============
+Name: num5
+Value: 4
+===============
+Name: num6
+Value: 2
+===============
+Name: num1
+Value: 7
+===============
+Name: num1
+Value: 5
+===============
+Name: tl_list-search-box
+Value: kore
+===============
+Name: phone
+Value: (785) 222 - 4119
+===============
+Name: city
+Value: Port Huron
+===============
+Name: postal_code
+Value: 48060
+===============
+Name: phone
+Value: 7852224119
+===============
+Name: name
+Value: John
+===============
+Name: txtMail
+Value: top.developer.46@gmail.com
+===============
+Name: txtNom
+Value: John
+===============
+Name: txtPrenom
+Value: John
+===============
+Name: txtNomDeJeuneFille
+Value: Anderson
+===============
+Name: txtEmail
+Value: top.developer.46@gmail.com
+===============
+Name: display-name
+Value: Smile
+===============
+Name: screenName
+Value: john
+===============
+Name: tl_list-search-box
+Value: engli
+===============
+Name: jobtitle
+Value: developer
+===============
+Name: company
+Value: up
+===============
+Name: phone
+Value: +1(785) 222 - 4119
+===============
+Name: name
+Value: top
+===============
+Name: exp-date
+Value: 09 / 25
+===============
+Name: subdomain
+Value: top
+===============
+Name: tl_list-search-box
+Value: korean
+===============
+Name: register-form-email
+Value: top.developer.46@gmail.com
+===============
+Name: register-form-name
+Value: John
+===============
+Name: num1
+Value: 1
+===============
+Name: user[email]
+Value: top.developer.46@gmail.com
+===============
+Name: sl_list-search-box
+Value: korean
+===============
+Name: otp1
+Value: 5
+===============
+Name: otp2
+Value: 6
+===============
+Name: otp3
+Value: 8
+===============
+Name: otp4
+Value: 3
+===============
+Name: job-title
+Value: Looking for English-Spanish translator.
+===============
+Name: job-title
+Value: Looking for experienced in data entry.
+===============
+Name: hourly-rate-min
+Value: 8
+===============
+Name: hourly-rate-max
+Value: 15
+===============
+Name: sl_list-search-box
+Value: sp
+===============
+Name: tl_list-search-box
+Value: engl
+===============
+Name: sl_list-search-box
+Value: en
+===============
+Name: sl_list-search-box
+Value: engli
+===============
+Name: sl_list-search-box
+Value: engl
+===============
+Name: sl_list-search-box
+Value: eng
+===============
+Name: tl_list-search-box
+Value: english
+===============
+Name: sl_list-search-box
+Value: span
+===============
+Name: phoneNumber
+Value: (785) 222-4119
+===============
+Name: full-name
+Value: John Anderson
+===============
+Name: e-mail
+Value: top.developer.46@gmail.com
+===============
+Name: phone
+Value: +1 785 222 4119
+===============
+Name: jobTitle
+Value: Software Engineer
+===============
+Name: companyName
+Value: upwork
+===============
+Name: firstName
+Value: John
+===============
+Name: lastName
+Value: Anderson
+===============
+Name: location.city
+Value: Port Huron, MI
+===============
+Name: jobTitle
+Value: Blockchain Developer
+===============
+Name: companyName
+Value: Maxos LLC
+===============
+Name: ctl00$ContentPlaceHolder1$txtContractAddress
+Value: 0x7505d9de3f002747ecb816554a1996e2de7e2998
+===============
+Name: ctl00$ContentPlaceHolder1$txtContractAddress
+Value: 0x417398d14b2d0cd2c66a3c34cee569574024deca
+===============
+Name: ctl00$ContentPlaceHolder1$txtContractAddress
+Value: 0xb6ab35a7107ba586192206e987def6638f2fb951
+===============
+Name: ctl00$ContentPlaceHolder1$txtContractAddress
+Value: 0x8d8f05a9c99ec634265780dd73a12d480c0f4d19
+===============
+Name: search_input
+Value: IERC20.sol
+===============
+Name: ctl00$ContentPlaceHolder1$txtContractAddress
+Value: 0xc0ea6a17ae9d38859e2bb1b9f73935466ac48140
+===============
+Name: s
+Value: hfvv mrkc zw4u wjnp
+===============
+Name: concentration10
+Value: Computer Science
+===============
+Name: workStartMonths[0]
+Value: 04/2019
+===============
+Name: workEndMonths[0]
+Value: 03/2020
+===============
+Name: workStartMonths[1]
+Value: 04/2020
+===============
+Name: workStartMonths[2]
+Value: 05/2015
+===============
+Name: workEndMonths[2]
+Value: 08/2017
+===============
+Name: workStartMonths[5]
+Value: 04/2017
+===============
+Name: workEndMonths[5]
+Value: 03/2019
+===============
+Name: Email
+Value: top.developer.46@gmail.com
+===============
+Name: pc
+Value: 48060 Port Huron, MI
+===============
+Name: job_title
+Value: Senior Blockchain Developer
+===============
+Name: company_name
+Value: CyberCoders
+===============
+Name: phone_number
+Value: +1 785 222 4119
+===============
+Name: hiring_company
+Value: CyberCoders
+===============
+Name: fullname
+Value: John Anderson
+===============
+Name: hiring_company
+Value: Maxos LLC
+===============
+Name: PasswordText
+Value: Icanfly0310!
+===============
+Name: RegistrantLoginForm[email]
+Value: parchukdmytro1@gmail.com
+===============
+Name: ContactRequestPasswordResetForm[email]
+Value: parchukdmytro1@gmail.com
+===============
+Name: login
+Value: crazycodinglover
+===============
+Name: user[profile_name]
+Value: Crazy-Coder
+===============
+Name: oauth_access[description]
+Value: personal access
+===============
+Name: q
+Value: blockchain
+===============
+Name: q
+Value: Searching ...
+===============
+Name: q
+Value: history
+===============
+Name: q
+Value: transaction history
+===============
+Name: q
+Value: interact with ethereum
+===============
+Name: full_name
+Value: John Anderson
+===============
+Name: keywords
+Value: upwork
+===============
+Name: code
+Value: 6581
+===============
+Name: code
+Value: 6056
+===============
+Name: login
+Value: 01blockchainDev
+===============
+Name: user[profile_name]
+Value: Eager-Blockchain-Dev
+===============
+Name: id_token
+Value: eyJhbGciOiJSUzI1NiIsImtpZCI6ImJhMDc5YjQyMDI2NDFlNTRhYmNlZDhmYjEzNTRjZTAzOTE5ZmIyOTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiOTM2NDUwOTAyNTMxLXI2azVmdTR0bmk1M2I0ZjBvMnI4ZTJjazQ5ZWdub2swLmFw   UIЃ155	user[profile_name]Eager-Blockchain-Deveager-blockchain-devc+С†c+С†т           %|!!qblockchainblockchainc()lc2џЃ	code60566056c+№~c+№~Ѓ	code65816581c+№ec+№e#Ѓ	keywordsupworkupworkc+m c+m 3Ѓ''full_nameJohn Andersonjohn andersonc)Сc+­¤<Ѓ 99	qinteract with ethereuminteract with ethereumc(Їnc(Їn633	qtransaction historytransaction historyc(Ї=c(Ї=~	qhistoryhistoryc(Ї#c(Ї#+}''qSearching ...searching ...c(ЋЉc.чIF{?++	oauth_access[description]personal accesspersonal accessc'Фc'Ф7z1##	user[profile_name]Crazy-Codercrazy-coderc'С‚c'С‚5y--logincrazycodinglovercrazycodingloverc'Сc-еыexY==	ContactRequestPasswordResetForm[email]parchukdmytro1@gmail.comparchukdmytro1@gmail.comc'РЏc'РЏYwA==	RegistrantLoginForm[email]parchu
+===============
+Name: state
+Value: ?ssoProvider=google
+===============
+Name: building_no
+Value: 6287 1190
+===============
+Name: building_no
+Value: 6287
+===============
+Name: city
+Value: Singapore
+===============
+Name: name
+Value: Huang Jun Ming
+===============
+Name: address
+Value: 13 Tuas Ave 12, 639035, Singapore
+===============
+Name: email
+Value: top.d
+===============
+Name: date
+Value: 17 June, 2022
+===============
+Name: namerecipment
+Value: Dear Hiring Manger
+===============
+Name: signature
+Value: Ming Huang Jun
+===============
+Name: fullName
+Value: Huang Jun Ming
+===============
+Name: phoneNumber
+Value: +1 785 222 4119
+===============
+Name: location
+Value: Singapore
+===============
+Name: question1
+Value: I'm a dedicated and seasoned blockchain | full-stack developer with 4+years of Blockchain development in Solidity and web3.js.
+===============
+Name: question2
+Value: I'm a good English speaker.
+===============
+Name: user[title]
+Value: Blockchain | Full Stack developer
+===============
+Name: user[public_email]
+Value: top.developer.46@gmail.com
+===============
+Name: user[login]
+Value: crazy-coder
+===============
+Name: user[employments_attributes][0][title]
+Value: Blockchain developer
+===============
+Name: user[employments_attributes][0][company]
+Value: MaxosLLC
+===============
+Name: user[employments_attributes][0][website]
+Value: maxos.finance
+===============
+Name: user[github]
+Value: https://github.com/ninja-home
+===============
+Name: user[employments_attributes][0][company]
+Value: MAXOS LLC
+===============
+Name: user[employments_attributes][1][title]
+Value: Full stack developer
+===============
+Name: user[employments_attributes][1][company]
+Value: RociFi
+===============
+Name: user[employments_attributes][1][website]
+Value: roci.fi
+===============
+Name: user[employments_attributes][0][company]
+Value: RociFi
+===============
+Name: user[employments_attributes][0][website]
+Value: roci.fi
+===============
+Name: user[employments_attributes][1][company]
+Value: MAXOS LLC
+===============
+Name: user[employments_attributes][1][website]
+Value: maxos.finance
+===============
+Name: user[employments_attributes][2][title]
+Value: Blockchain Full stack developer
+===============
+Name: user[employments_attributes][2][company]
+Value: Upwork
+===============
+Name: user[employments_attributes][2][website]
+Value: Upwork.com
+===============
+Name: user[telegram]
+Value: https://t.me/Crazy_coder_ming
+===============
+Name: user[login]
+Value: crazy-coder-ming
+===============
+Name: user[login]
+Value: crazy-coder-ming0310
+===============
+Name: user[login]
+Value: crazyCoderMing0310
+===============
+Name: user[login]
+Value: CrazyCoderMing0310
+===============
+Name: user[login]
+Value: crazy/coder0310
+===============
+Name: user[employments_attributes][0][title]
+Value: Developer
+===============
+Name: user[login]
+Value: huangjunming0310
+===============
+Name: user[employments_attributes][1][title]
+Value: Developer
+===============
+Name: user[login]
+Value: abcdef
+===============
+Name: user[login]
+Value: ming0310
+===============
+Name: user[linkedin]
+Value: linkedin.com/huangjun.ming
+===============
+Name: user[website]
+Value: meet-sergio.netlify.com
+===============
+Name: applicant[lead_attributes[first_name]]
+Value: Ming
+===============
+Name: applicant[lead_attributes[middle_name]]
+Value: Huang
+===============
+Name: applicant[lead_attributes[last_name]]
+Value: Jun
+===============
+Name: applicant[lead_attributes[email]]
+Value: top.developer.46@gmail.com
+===============
+Name: applicant[lead_attributes[mobile]]
+Value: +1 785 222 4119
+===============
+Name: applicant[lead_attributes[last_name]]
+Value: Huang Jun
+===============
+Name: applicant[lead_attributes[mobile]]
+Value: +17852224119
+===============
+Name: cName
+Value: Ming Jun Huang
+===============
+Name: cEmail
+Value: top.developer.46@gmail.com
+===============
+Name: cPhoneNumber
+Value: +1 785 222 4119
+===============
+Name: phone
+Value: +17852224119
+===============
+Name: developer[name]
+Value: Huang Jun Ming
+===============
+Name: developer[hero]
+Value: dedicated, strong can-do attitude, committed-team player, proactive
+===============
+Name: developer[location_attributes][city]
+Value: Singapore
+===============
+Name: developer[location_attributes][country]
+Value: Singapore
+===============
+Name: question1
+Value: team collaboration
+===============
+Name: cards[ee9fa726-c47c-4d05-a4a8-546abf43a6df][field0]
+Value: I think the best way to scale blockchains is to combine with centralized servers.(cross-chain technology is the future of blockchain technology)
+===============
+Name: cards[ee9fa726-c47c-4d05-a4a8-546abf43a6df][field1]
+Value: Digital signature and verification using private and public key pair.
+===============
+Name: member[email]
+Value: top.developer.46@gmail.com
+===============
+Name: skills
+Value: C/C++, Javascript, Solidity, HTML, CSS, React
+===============
+Name: user[website]
+Value: crazy-ming.netlify.com
+===============
+Name: developer[website]
+Value: crazy-ming.netlify.com
+===============
+Name: developer[github]
+Value: ninja-home
+===============
+Name: name
+Value: myproject
+===============
+Name: name
+Value: myproject(eth1.0)
+===============
+Name: nav-search-input
+Value: blockchain
+===============
+Name: salaryExpectations
+Value: $7,600/month
+===============
+Name: urls[Portfolio]
+Value: https://crazy-ming.netlify.com
+===============
+Name: FullName
+Value: Huang Jun Ming
+===============
+Name: github
+Value: https://github.com/ninja-home
+===============
+Name: login
+Value: top.developer.46@gmail.com
+===============
+Name: first_name
+Value: Ming
+===============
+Name: last_name
+Value: Huang Jun
+===============
+Name: website
+Value: https://crazy-ming.netlify.com
+===============
+Name: education
+Value: Singapore Institute of Technology
+===============
+Name: specialization
+Value: blockchain developer
+===============
+Name: rate
+Value: 50.00
+===============
+Name: position
+Value: Full-time
+===============
+Name: years
+Value: 3
+===============
+Name: skills
+Value: Solidity, JavaScript, C/C++, Rust, golang, React, HTML, CSS,
+===============
+Name: preferred_locations
+Value: Remote
+===============
+Name: languages
+Value: English
+===============
+Name: expected_salary
+Value: $8,000/month
+===============
+Name: university
+Value: SIT, 2015
+===============
+Name: in_crypto_since
+Value: 2017
+===============
+Name: telegram
+Value: https://t.me/Crazy_coder_ming
+===============
+Name: skills
+Value: Solidity, JavaScript, C/C++, Data structures and algorithms, Rust, golang, React, HTML, CSS,
+===============
+Name: search
+Value: blockchain, solidity,nft,
+===============
+Name: search
+Value: blockchain
+===============
+Name: skills
+Value: C/C++, Solidity, JavaScript,  Data structures and algorithms, Rust, golang, React, HTML, CSS,
+===============
+Name: search
+Value: solidity
+===============
+Name: WorkExperience[WE_JobTitle][1]
+Value: blockchain developer
+===============
+Name: WorkExperience[WE_Company][1]
+Value: RociFi
+===============
+Name: WE_From1
+Value: May 2015
+===============
+Name: WE_To1
+Value: Apr 2019
+===============
+Name: WorkExperience[WE_JobTitle][2]
+Value: full-stack | blockchain developer
+===============
+Name: WorkExperience[WE_Company][2]
+Value: MAXOS LLC
+===============
+Name: WE_From2
+Value: May 2019
+===============
+Name: WE_To2
+Value: Apr 2021
+===============
+Name: Education[ED_DegreeSpecialty][1]
+Value: MCA - Computer Science
+===============
+Name: Education[ED_UniversityInstitution][1]
+Value: Singapore Institute of Technology
+===============
+Name: ED_From1
+Value: Sep 2011
+===============
+Name: ED_To1
+Value: Apr 2015
+===============
+Name: q
+Value: nft
+===============
+Name: q
+Value: solidity
+===============
+Name: Keywords
+Value: blockchain
+===============
+Name: s
+Value: developer
+===============
+Name: FirstName
+Value: Ming
+===============
+Name: LastName
+Value: Huang Jun
+===============
+Name: Phone
+Value: 1 785 222 4119
+===============
+Name: CandidateFirstName
+Value: Ming
+===============
+Name: CandidateLastName
+Value: Huang Jun
+===============
+Name: CandidateEmail
+Value: top.developer.46@gmail.com
+===============
+Name: CandidateMobile
+Value: +1 785 222 4119
+===============
+Name: JobApplicationCustomField_1
+Value: Yes, I often take part in NFT auctions with my Metamask crypto wallet.
+===============
+Name: JobApplicationCustomField_2
+Value: I have hands-on experiences in blockchain technologies that matches your company requirements.
+===============
+Name: JobApplicationCustomField_3
+Value: Javascript, C/C++, solidity, rust, golang
+===============
+Name: JobApplicationCustomField_5
+Value: eager-learner, committed team player, pro-active
+===============
+Name: mui-5
+Value: top.developer.46@gmail.com
+===============
+Name: sr_firstname
+Value: Ming
+===============
+Name: sr_lastname
+Value: Huang Jun
+===============
+Name: candidate_title
+Value: Blockchain developer
+===============
+Name: candidate_location
+Value: Singapore
+===============
+Name: resume_skills
+Value: solidity, javascript, c/c++, html, css, rust, golang, reactjs, nextjs, nodejs, express, sql, mysql, graphql, postgresql, mongodb
+===============
+Name: links_name_1
+Value: portfolio
+===============
+Name: links_url_1
+Value: https://crazy-ming.netlify.com
+===============
+Name: candidate_education_location_1
+Value: Singapore Institute of Technology
+===============
+Name: candidate_education_qualification_1
+Value: bachelor
+===============
+Name: candidate_education_date_1
+Value: 2011/2015
+===============
+Name: candidate_experience_employer_1
+Value: RociFi
+===============
+Name: candidate_experience_job_title_1
+Value: blockchain developer
+===============
+Name: candidate_experience_date_1
+Value: 2017/2019
+===============
+Name: candidate_experience_employer_2
+Value: MAXOS LLC
+===============
+Name: candidate_experience_job_title_2
+Value: full stack, blockchain developer
+===============
+Name: candidate_experience_date_2
+Value: 2019/2021

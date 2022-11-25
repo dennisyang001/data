@@ -1,0 +1,268 @@
+***************************************************************************************************
+
+Name: project[path]
+Value: freddy-ar-books
+===============
+Name: personal_access_token[name]
+Value: Ravi's windows
+===============
+Name: email
+Value: fghfghfg@gmail.com
+===============
+Name: displayFirstName
+Value: Rajesh
+===============
+Name: loginid
+Value: Alvish
+===============
+Name: issue_form[ios_build_env]
+Value: 12.5.1
+===============
+Name: login
+Value: arccus.game@gmail.com
+===============
+Name: issue_form[unity_version]
+Value: 2021.1.28f1
+===============
+Name: q
+Value: is:issue is:open framework
+===============
+Name: custom_U161810
+Value: Ravi
+===============
+Name: company
+Value: sdfgdgff
+===============
+Name: project[name]
+Value: Freddy AR Books
+===============
+Name: issue_form[plugin_version]
+Value: 0.5.0
+===============
+Name: Email
+Value: ravikapupara@gmail.com
+===============
+Name: displayLastName
+Value: K
+===============
+Name: issue_form[host_os]
+Value: Windows 10 Pro
+===============
+Name: project[name]
+Value: Virtual Expo Nish
+===============
+Name: firstname
+Value: fghfg
+===============
+Name: GLUXZipUpdateInput
+Value: 60564
+===============
+Name: project[path]
+Value: virtual-expo-nish
+===============
+Name: email
+Value: taces66960@jesdoit.com
+===============
+Name: q
+Value: shrink
+===============
+Name: q
+Value: expand
+===============
+Name: lastname
+Value: fgfgh
+===============
+Name: issue_form[target_device]
+Value: iPhones
+===============
+Name: q
+Value: round platform
+===============
+Name: username
+Value: rajesh.game
+===============
+Name: inlineEdit
+Value: Rajesh
+===============
+Name: inlineEdit
+Value: Client Gameplay Dev
+===============
+Name: inlineEdit
+Value: Rajesh Kapupara
+===============
+Name: cfctest-locked-org-picker
+Value: No organization
+===============
+Name: bundleIdInput
+Value: com.almighty.FyerDates
+===============
+Name: _1rif_mat-input-2
+Value: MAP Billing Account
+===============
+Name: _1rif_mat-input-3
+Value: Arccus General
+===============
+Name: expirationDate-month
+Value: 03
+===============
+Name: expirationDate-year
+Value: 26
+===============
+Name: cardHolderNameField
+Value: Rajesh Kishorbhai Kapupara
+===============
+Name: expirationDate-month
+Value: 04
+===============
+Name: cardHolderNameField
+Value: Rajeshkumar Kapupara
+===============
+Name: PERMANENT_ACCOUNT_NUMBER
+Value: ARKPK7488H
+===============
+Name: company_code
+Value: urban
+===============
+Name: username
+Value: kabir@urban-realty.ca
+===============
+Name: vin_PaymentMethod_accountHolderName
+Value: Kapupara Ravi
+===============
+Name: card_exp_date
+Value: 09 / 22
+===============
+Name: username
+Value: gdfgdfgd@gmail.com
+===============
+Name: email
+Value: dfgdfgdfgree4534@gmail.com
+===============
+Name: q
+Value: is:issue is:open iOS framework addition failed due to a CocoaPods installation failure. This will will likely result in an non-functional Xcode project.
+===============
+Name: q
+Value: is:issue is:closed xcode
+===============
+Name: login
+Value: james.bae
+===============
+Name: account[org_name]
+Value: Abc Inc.
+===============
+Name: account[user][first_name]
+Value: james
+===============
+Name: account[user][last_name]
+Value: Bae
+===============
+Name: account[user][username]
+Value: james.bae
+===============
+Name: account[user][email]
+Value: james.bae@yopmail.com
+===============
+Name: username
+Value: james.bae
+===============
+Name: pma_username
+Value: kaprac7k_encountervr
+===============
+Name: video_url
+Value: https://vimeo.com/729071830
+===============
+Name: name
+Value: Lakewood
+===============
+Name: name
+Value: North point community
+===============
+Name: name
+Value: Willow Creek
+===============
+Name: name
+Value: Life
+===============
+Name: name
+Value: West Angeles Cathedral
+===============
+Name: name
+Value: Fellowship
+===============
+Name: name
+Value: Saddleback
+===============
+Name: name
+Value: The potters
+===============
+Name: name
+Value: Woodlands
+===============
+Name: video_360_link
+Value: https://vimeo.com/729090825
+===============
+Name: user[login]
+Value: arccus.game@gmail.com
+===============
+Name: #16
+Value: 10
+===============
+Name: project[name]
+Value: STORY AR
+===============
+Name: project[path]
+Value: story-ar
+===============
+Name: Email
+Value: ravikapupardfgdfa@gmail.com
+===============
+Name: aex-view-2
+Value: Rajesh K
+===============
+Name: aex-view-4
+Value: arccus.game@gmail.com
+===============
+Name: user[profile_name]
+Value: Rajesh
+===============
+Name: user[profile_company]
+Value: Arccus inc
+===============
+Name: email
+Value: shawnhoodmedia@gmail.com
+===============
+Name: sno
+Value: C07G914NQ6NW
+===============
+Name: sn
+Value: C07G914NQ6NW
+===============
+Name: sid-input
+Value: 7ED3w6hfPUj
+===============
+Name: sid-input
+Value: T4AJhmQdJ5Q
+===============
+Name: mp-editable-field-input
+Value: 939 Seasage Drive, Delray Beach, FL 33483
+===============
+Name: mp-editable-field-input
+Value: 5858 Tarragon Drive, West Palm Beach, FL 33415
+===============
+Name: sid-input
+Value: vafE14h9X2J
+===============
+Name: mp-editable-field-input
+Value: In Law
+===============
+Name: mp-editable-field-input
+Value: 5798 Northeast 7th Avenue, Boca Raton, FL 33487
+===============
+Name: display-name-input
+Value: Rajesh Kapupara
+===============
+Name: email-input
+Value: arccus.inc@gmail.com
+===============
+Name: sid-input
+Value: f5jHMZLoH1e
